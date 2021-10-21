@@ -1,0 +1,626 @@
+﻿collection number;subspecies;interfluvium;plumage group;genomics;country;state;locality;long;lat;sex;age;skull ossification;total lengh;weight;bill length;bill height;bill width;wing length;tail length;genomics2;interfluvium
+MPEG66375;luteifrons;guy;lutei;lutei;Brasil;Pará;Almeirim, REBIO Maicuru (0°49'N 53°55'W);-53,91;0,817;F; ;100;104;8,5;15,82;4,1;7,02;55,56;47,48;lutei;guy
+MPEG49348;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Alto Alegre, nascente Igarapé Inajá, Garimpo Dicão (03°36'N 63°44'W);-63,733;3,6;;;;117;11;16,19;3,88;7,23;56,83;43,85;ferrone;braneg
+MPEG49349;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Alto Alegre, nascente Igarapé Inajá, Garimpo Dicão (03°36'N 63°44'W);-63,733;3,6;M; ;;120;10,5;15,79;3,9;7,27;55,58;47,78;ferrone;braneg
+MPEG49350;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Alto Alegre, nascente Igarapé Inajá, Garimpo Dicão (03°36'N 63°44'W);-63,733;3,6;M; ;;116;11;16,62;4,12;6,56;55,36;42,04;ferrone;braneg
+MPEG49351;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Alto Alegre, nascente Igarapé Inajá, Garimpo Dicão (03°36'N 63°44'W);-63,733;3,6;M; ;;115;11;15,93;4,11;6,48;54,29;44,2;ferrone;braneg
+MPEG49352;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Roraima;Alto Alegre, nascente Igarapé Inajá, Garimpo Dicão (03°36'N 63°44'W);-63,733;3,6;F;;;;;;;;;;ferrone;braneg
+MPEG21538;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;"Amazonas, Alto Orinoco, Serra Parima, ""Posto Parima B"" (02°25'N 64°07'W)";-64,117;2,417;F; ;;;;15,38;4,28;6,55;41,5;41,25;ferrone;braneg
+MPEG21503;luteifrons;guy;lutei;lutei;Brasil;Amapá;Ferreira Gomes, margem esquerda Rio Araguari, Areia Vermelha (01°00'N 51°40'W);-51,667;1;M; ;;;;14,79;3,95;6,38;53,3;40,37;lutei;guy
+MPEG16471;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Igarapé Novo, afl.esq. Ig. Amazonas, afl. esq. Rio Iratapuru (0°30'N 52°30'W);-52,5;0,5;F; ;;;;14,71;3,54;5,95;54,35;43;lutei;guy
+MPEG29324;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Igarapé Novo, afl.esq. Ig. Amazonas, afl. esq. Rio Iratapuru (0°30'N 52°30'W);-52,5;0,5;M; ;;;;14,82;4,2;6,06;55,79;42,55;lutei;guy
+MPEG29325;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Igarapé Novo, afl.esq. Ig. Amazonas, afl. esq. Rio Iratapuru (0°30'N 52°30'W);-52,5;0,5;M; ;;;;14,15;3,88;5,87;56,77;45,36;lutei;guy
+MPEG29028;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Rio Camaipi afluente esquerdo Rio Maracá, Cachoeira Itaboca (0°05'N 51°54'W);-51,9;0,083;F; ;;;;14,74;;6,03;55,65;45,98;lutei;guy
+MPEG29030;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Rio Camaipi afluente esquerdo Rio Maracá, Cachoeira Itaboca (0°05'N 51°54'W);-51,9;0,083;M; ;;;;14,74;3,94;6,47;57,3;44,63;lutei;guy
+MPEG29029;luteifrons;guy;lutei;lutei;Brasil;Amapá;Mazagão, Rio Camaipi, afluente esquerdo Rio Maracá, Cachoeira Amapá (0°02'N 51°55'W);-51,917;0,033;M; ;;;;14,56;3,9;6,67;51,6;41,32;lutei;guy
+MPEG46210;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;60;;11,5;;;;;;ferrone;braneg
+MPEG46211;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10,5;;;;;;ferrone;braneg
+MPEG46212;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10,5;;;;;;ferrone;braneg
+MPEG46213;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;11;;;;;;ferrone;braneg
+MPEG46214;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10,5;;;;;;ferrone;braneg
+MPEG46215;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10,5;15,98;4,2;6,66;57,6;45,63;ferrone;braneg
+MPEG46216;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10;15,24;4,12;5,9;54,16;44;ferrone;braneg
+MPEG46217;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10;15,64;4,08;6,2;54,09;45,56;ferrone;braneg
+MPEG46218;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;11;16,16;4,3;6,27;53,3;44,55;ferrone;braneg
+MPEG46219;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10;15,83;4,21;6,21;54,02;45,17;ferrone;braneg
+MPEG46220;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;10,5;14,94;4,27;7,5;56,9;44,75;ferrone;braneg
+MPEG46221;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;M; ;100;;11;15,25;;6,05;63,13;46,7;ferrone;braneg
+MPEG46222;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;F;;;;;;;;;;ferrone;braneg
+MPEG46223;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;F; ;100;;11,5;;;;;;ferrone;braneg
+MPEG46224;ferrugineifrons;braneg;ferr;ferrone;Brasil;Roraima;Mucajaí, Colônia do Apiaú (02°34'N 61°18'W);-61,3;2,567;F; ;100;;10,5;15,67;4,2;6,07;56,2;47,28;ferrone;braneg
+MPEG65925;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, ESEC Grão-Pará (01°17'N 58°41'W);-58,683;1,283;F; ;100;105;8,9;13,65;4,01;5,77;53,26;44,36;lutei;guy
+MPEG65926;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, ESEC Grão-Pará (01°17'N 58°41'W);-58,683;1,283;M; ;100;99;8,5;14,49;4,72;5,48;54,38;43,51;lutei;guy
+MPEG65927;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, ESEC Grão-Pará (01°17'N 58°41'W);-58,683;1,283;M; ;;101;8,7;14,7;3,92;5,24;55,91;44,45;lutei;guy
+MPEG65928;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, ESEC Grão-Pará (01°17'N 58°41'W);-58,683;1,283;M; ;100;115;9,8;15,19;4,52;6,03;56,77;50,49;lutei;guy
+MPEG65929;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, ESEC Grão-Pará (01°17'N 58°41'W);-58,683;1,283;F; ;100;105;9,5;14,77;4,34;5,03;54,56;47,78;lutei;guy
+MPEG16248;luteifrons;guy;lutei;lutei;Brasil;Amapá;Pedra Branca do Amapari, Rio Maracá, Alto Igarapé Branco, Boa Fortuna (0°33'N 52°16'W);-52,267;0,55;F; ;;;;14,53;3,63;6,64;53,97;42,96;lutei;guy
+MPEG23795;luteifrons;guy;lutei;lutei;Brasil;Amapá;Porto Grande, Baixo Rio Amapari (0°43'N 51°32'W);-51,533;0,717;F; ;;;;16,45;4,09;6,28;53,92;44,71;lutei;guy
+MPEG25344;luteifrons;guy;lutei;lutei;Brasil;Amapá;Porto Grande, Porto Platon (0°42'N 51°27'W);-51,45;0,7;M; ;;;;14,73;4,52;5,83;55,96;46,57;lutei;guy
+MPEG32628;luteifrons;guy;lutei;lutei;Brasil;Pará;"Rio Paru de Este, margem esquerda, Igarapé Castanheira (0°47'58,8""N 54°21'05,3""W)";-54,351;0,799;M; ;;;;14;3,65;6,78;54,78;47,06;lutei;guy
+MPEG77441;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, PPBIO (0°09'N 66°48'W);-66,813;0,151;M; ;100;119;11;15,59;4,53;6,1;54,03;43,8;ferrone;braneg
+MPEG77586;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;F; ;100;115;10;15,04;4,12;6,72;43,88;44,42;ferrone;braneg
+MPEG77663;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;M; ;100;113;11;15,65;;6,31;52,31;44,48;ferrone;braneg
+MPEG77668;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;M; ;100;114;10;16,32;;6,97;55,86;43,21;ferrone;braneg
+MPEG77669;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;F; ;100;111;10;14,49;4,34;6,04;52,51;43,87;ferrone;braneg
+MPEG77677;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;M;;;;;;;;;;ferrone;braneg
+MPEG77678;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;F; ;100;111;8,9;16,11;4,06;5,61;54,99;40,64;ferrone;braneg
+MPEG77719;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°14'S 66°51'W);-66,85;0,233;M; ;;104;9,8;;;;;;ferrone;braneg
+MPEG77778;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, T.I. médio Rio Negro, Arabo (0°18'S 66°49'W);-66,817;0,3;M; ;;114;11;14,92;;6,87;53,03;41,73;ferrone;braneg
+MPEG31952;luteifrons;guy;lutei;lutei;Brasil;Amapá;"Serra do Navio, Rio Amapari (0°53'57,2""N 52°00'03,1""W)";-52,006;0,912;;;;;;15,3;4,23;5,84;55,87;42,3;lutei;guy
+MPEG51067;luteifrons;guy;lutei;lutei;Brasil;Pará;Almeirim, Estação Ecológica do Jari (0°26'S 52°43'W);-52,717;-0,433;;;;117;9;14,37;3,95;5,77;53,55;46;lutei;guy
+MPEG51068;luteifrons;guy;lutei;lutei;Brasil;Pará;Almeirim, Estação Ecológica do Jari (0°26'S 52°43'W);-52,717;-0,433;;;;107;9,5;15,69;4,31;6,32;56,9;46,5;lutei;guy
+MPEG40514;luteifrons;guy;lutei;lutei;Brasil;Pará;Almeirim, Monte Dourado, Reserva Genética Pacanari (0°54'S 52°35'W);-52,583;-0,9;M; ;;110;;15,54;4,32;5,64;53,72;44,3;lutei;guy
+MPEG51748;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;Alta Floresta, margem direita Rio Teles Pires (09°42'S 55°54'W);-55,855;-9,689;F; ;100;106;8,8;15,52;4,2;6,82;56,36;44,65;rub2;tapxin
+MPEG51749;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;Alta Floresta, margem direita Rio Teles Pires (09°42'S 55°54'W);-55,855;-9,689;M; ;100;107;9,8;15,39;4,06;6,63;53,59;44,77;rub2;tapxin
+MPEG75322;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Altamira, Fazenda Ipiranga (09°15'45,5""S 54°28'51,2""W)";-54,487;-9,259;M; ;100;102;9,7;;;;;;rub2;tapxin
+MPEG75334;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Altamira, Fazenda Ipiranga (09°15'45,5""S 54°28'51,2""W)";-54,487;-9,259;F; ;100;98;10,4;16,82;;7,06;56,02;46,76;rub2;tapxin
+MPEG74952;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Altamira, Fazenda Ipiranga (09°15'45,6""S 54°28'51,2""W)";-54,487;-9,259;F; ;100;100;9;;;;;;rub2;tapxin
+MPEG74921;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Altamira, Fazenda Ipiranga (09°15'50,1""S 54°28'03,7""W)";-54,487;-9,259;F; ;100;100;9;15,95;4,4;6,8;54,8;43,65;rub2;tapxin
+MPEG38844;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Alvorada do Oeste, Linha 64, Br 429 Km 87 (11°25'S 62°25'W);-62,613;-11,492;M; ;;110;11;16,11;4,54;7,15;53,88;43,37;lutes;madtap
+MPEG38845;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Alvorada do Oeste, Linha 64, Br 429 Km 87 (11°25'S 62°25'W);-62,613;-11,492;M; ;;;11;15,62;4,2;6,81;57,09;46,93;lutes;madtap
+MPEG38846;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Alvorada do Oeste, Linha 64, Br 429 Km 87 (11°25'S 62°25'W);-62,613;-11,492;M; ;;5;10;16,08;4,22;6,15;52,8;;lutes;madtap
+MPEG31265;lutescens;madtap;lutes;lutes;Brasil;Mato Grosso;Aripuanã, Cachoeira Dardanelos, margem direita Rio Aripuanã (10°10'S 59°27'W);-59,45;-10,168;M; ;;;9;15,3;3,97;6,66;54,18;45,43;lutes;madtap
+MPEG31266;lutescens;madtap;lutes;lutes;Brasil;Mato Grosso;Aripuanã, Cachoeira Dardanelos, margem direita Rio Aripuanã (10°10'S 59°27'W);-59,45;-10,168;M; ;;;7;13,92;4,07;6,12;57,3;45,27;lutes;madtap
+MPEG31267;lutescens;madtap;lutes;lutes;Brasil;Mato Grosso;Aripuanã, Cachoeira Dardanelos, margem direita Rio Aripuanã (10°10'S 59°27'W);-59,45;-10,168;F; ;;;9;15,38;3,82;6,84;51,72;42,5;lutes;madtap
+MPEG31268;lutescens;madtap;lutes;lutes;Brasil;Mato Grosso;Aripuanã, Cachoeira Dardanelos, margem direita Rio Aripuanã (10°10'S 59°27'W);-59,45;-10,168;F; ;;;9,5;16,17;4,08;6,63;55,51;44,78;lutes;madtap
+MPEG31269;lutescens;madtap;lutes;lutes;Brasil;Mato Grosso;Aripuanã, Cachoeira Dardanelos, margem direita Rio Aripuanã (10°10'S 59°27'W);-59,45;-10,168;M; ;;;10,5;15,86;4,28;6,47;55,15;47,82;lutes;madtap
+MPEG59885;viridior;purmad;ferr;ferrtwo;Brasil;Acre;"Assis Brasil, ca 78 km W, ESEC Rio Acre (11°03'24,5""S 70°16'16,6""W)";-70,271;-11,057;F; ;100;115;11;14,47;3,95;5,83;55,16;45,15;ferrtwo;purmad
+MPEG59886;viridior;purmad;ferr;ferrtwo;Brasil;Acre;"Assis Brasil, ca 78 km W, ESEC Rio Acre (11°03'24,5""S 70°16'16,6""W)";-70,271;-11,057;M; ;100;115;10;15,95;4,15;5,53;56,78;43,85;ferrtwo;purmad
+MPEG72841;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Atalaia do Norte, Estirão do Equador 1 (04°31'49""S 71°36'58,5""W)";-71,629;-4,54;F; ;100;115;12;16,69;4,64;6,01;53,93;41,24;ferrtwo;solmad
+MPEG73055;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Atalaia do Norte, Estirão do Equador 1 (04°31'49""S 71°36'58,5""W)";-71,629;-4,54;M; ;100;114;12;16,63;4,84;6,34;;44,18;ferrtwo;solmad
+MPEG55861;ferrugineifrons;solneg;ferr;ferrone;Brasil;Amazonas;Barcelos, ParNa do Jaú, Monteiro (02°03'S 62°46'W);-62,767;-2,05;M; ;;105;10;15,54;;;55,54;43,55;ferrone;solneg
+MPEG55862;ferrugineifrons;solneg;ferr;ferrone;Brasil;Amazonas;Barcelos, ParNa do Jaú, Monteiro (02°03'S 62°46'W);-62,767;-2,05;F; ;;113;13;16,05;;5,71;56,43;44,93;ferrone;solneg
+MPEG59717;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;Barcelos, Rio Araçá (0°25'S 62°56'W);-62,946;-0,419;F;;;102;10,2;15,29;4,11;5,63;56,45;;ferrone;braneg
+MPEG59718;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;Barcelos, Rio Araçá (0°25'S 62°56'W);-62,946;-0,419;M; ;;117;11,7;15,57;3,97;5,67;55,75;45,01;ferrone;braneg
+MPEG67651;lutescens;tapxin;lutes;rubri;Brasil;Pará;Belterra, Fazenda Treviso, margem esquerda Igarapé Moju (03°25'S 54°55'W);-54,917;-3,417;M; ;100;111;8,5;15,85;;6,66;57,52;48;rub2;tapxin
+MPEG36470;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Belterra, FloNa do  Tapajós, BR 163 km 67 (03°02'27,7""S 54°56'07,7""W)";-54,952;-3,041;M; ;;;;15,85;3,71;6,9;50,58;47,56;rub2;tapxin
+MPEG53962;lutescens;tapxin;lutes;rubri;Brasil;Pará;Belterra, FloNa do Tapajós, BR 163 km 117 (03°21'S 54°57'W);-54,95;-3,35;M;J;100;100;9;15,57;3,98;6,97;52,04;43,02;rub2;tapxin
+MPEG53963;lutescens;tapxin;lutes;rubri;Brasil;Pará;Belterra, FloNa do Tapajós, BR 163 km 117 (03°21'S 54°57'W);-54,95;-3,35;M; ;100;110;10,5;16,56;4,52;7,14;57,79;43,05;rub2;tapxin
+MPEG53964;lutescens;tapxin;lutes;rubri;Brasil;Pará;Belterra, FloNa do Tapajós, BR 163 km 117 (03°21'S 54°57'W);-54,95;-3,35;M; ;;99;9,5;15,64;3,75;7,66;53,21;42,63;rub2;tapxin
+MPEG56133;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Belterra, FloNa do Tapajós, BR 163 Km 117, Base Sucupira (03°21'22""S 54°56'57""W)";-54,949;-3,356;M; ;100;105;9,75;16,15;4,23;7,43;57,34;42,99;rub2;tapxin
+MPEG56134;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Belterra, FloNa do Tapajós, BR 163 Km 117, Base Sucupira (03°21'22""S 54°56'57""W)";-54,949;-3,356;M; ;100;115;10,75;15,37;4,47;6,89;55,36;49,31;rub2;tapxin
+MPEG31433;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;"Capitão Poço, Bacaba (01°50'51,9""S 47°03'42,6""W)";-47,059;-1,831;M; ;;;;15,56;3,86;6,87;55,02;43,49;rub1;eastoc
+MPEG76960;rubrifrons;eastoc;lutes;rubri;Brasil;Maranhão;"Centro Novo do Maranhão, REBIO Gurupi (03°42'12,8""S 46°45'44""W)";-46,729;-3,714;M; ;;111;;15,25;;6,76;56,08;45,64;rub1;eastoc
+MPEG36984;rubrifrons;eastoc;lutes;rubri;Brasil;Maranhão;"Centro Novo do Maranhão, Rio Gurupi, Fazenda Santa Bárbara (03°03'57,8""S 46°38'06""W)";-46,635;-3,066;M; ;;108;9;15,1;3,79;6,4;54,69;42,89;rub1;eastoc
+MPEG36985;rubrifrons;eastoc;lutes;rubri;Brasil;Maranhão;"Centro Novo do Maranhão, Rio Gurupi, Fazenda Santa Bárbara (03°03'57,8""S 46°38'06""W)";-46,635;-3,066;F; ;;105;9;15,31;3,59;6,12;52,68;41,7;rub1;eastoc
+MPEG36986;rubrifrons;eastoc;lutes;rubri;Brasil;Maranhão;"Centro Novo do Maranhão, Rio Gurupi, Fazenda Santa Bárbara (03°03'57,8""S 46°38'06""W)";-46,635;-3,066;M; ;;106;10;15,68;3,85;7,1;53,16;42,35;rub1;eastoc
+MPEG58310;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Coari, Base Petrobrás/Urucu, Igarapé Tartaruga (04°52'06,2""S 65°19'59,7""W)";-65,333;-4,868;F; ;100;104;11,3;15,29;4,88;6,79;56,59;37,86;ferrtwo;solmad
+MPEG58311;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Coari, Base Petrobrás/Urucu, Igarapé Tartaruga (04°52'06,2""S 65°19'59,7""W)";-65,333;-4,868;M; ;100;107;0,2;15,47;4,49;6,12;56,28;42,63;ferrtwo;solmad
+MPEG59715;ferrugineifrons;solneg;ferr;ferrone;Brasil;Amazonas;Iranduba, Igarapé-Açu, Estrada Manacapuru/Novo Airão km 75 (02°51'S 60°52'W);-60,867;-2,85;M; ;;120;9,6;15,18;;6,14;55,24;40,25;ferrone;solneg
+MPEG59716;ferrugineifrons;solneg;ferr;ferrone;Brasil;Amazonas;Iranduba, Igarapé-Açu, Estrada Manacapuru/Novo Airão km 75 (02°51'S 60°52'W);-60,867;-2,85;;J;;112;9,6;;;;;;ferrone;solneg
+MPEG65160;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, FloNa Amana, margem direita Igarapé Montanha (04°52'55,9""S 56°58'07""W)";-56,969;-4,882;M; ;100;115;12;16,54;4,17;7,12;55,61;45,58;lutes;madtap
+MPEG75896;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, margem esquerda Rio Tapajós, Comunidade Penedo (05°27'21,6""S 57°04'12""W)";-57,08;-5,456;M; ;100;106;9;16,18;4,07;6,36;51,9;46,08;lutes;madtap
+MPEG75954;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, margem esquerda Rio Tapajós, Comunidade Terra Preta (05°37'19,63""S 57°16'49,82""W)";-57,283;-5,622;F; ;85;111;9;15,62;;6,91;52,6;49,33;lutes;madtap
+MPEG76294;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, margem esquerda Tapajós, Comunidade Penedo (05°27'21,61""S 57°04'12""W)";-57,08;-5,456;M; ;100;109;11;15,42;4,53;6,21;55,62;45,61;lutes;madtap
+MPEG76445;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, margem esquerda Tapajós, Comunidade Terra Preta (05°37'19,63""S  57°16'49,82""W)";-57,28;-5,622;F; ;100;108;8;14,96;;6,48;58,64;45,04;lutes;madtap
+MPEG76484;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, margem esquerda Tapajós, Comunidade Terra Preta (05°37'19,63""S  57°16'49,82""W)";-57,283;-5,622;F; ;100;129;9;16,06;4,08;6,27;51,3;45,53;lutes;madtap
+MPEG58565;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, ParNa Amazônia, Br 230 km 64, margem esquerda Rio Tapajós (04°16'48""S 55°58'48""W)";-56,458;-4,493;M; ;100;111;11;16,51;4,16;7,09;54,85;;lutes;madtap
+MPEG67229;lutescens;madtap;lutes;lutes;Brasil;Pará;"Itaituba, ParNa da Amazonia BR 230 km 95 (04°39'59,8""S 56°27'27,2""W)";-56,458;-4,667;M; ;;111;10,1;16,09;4,38;6,55;55,95;43,18;lutes;madtap
+MPEG34314;lutescens;madtap;lutes;lutes;Brasil;Pará;Itaituba, ParNa da Amazônia km 120 (04°40'S 56°44'W);-56,733;-4,667;F; ;;109;11;16,09;4,1;7,59;53,8;45,12;lutes;madtap
+MPEG69565;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Itaituba, Transgarimpeira km 85 (06°35'42,1""S 56°06'04,7""W)";-56,118;-6,582;M; ;90;110;10;15,28;4,33;6,64;56,02;46,16;rub2;tapxin
+MPEG69638;lutescens;madtap;lutes;lutes;Brasil;Pará;"Jacareacanga, FloNa Amana, Sítio Chicão do Abacate (05°36'40,2""S 57°35'16,8""W)";-57,588;-5,611;M; ;;114;9,5;15,36;4,32;6,74;56,21;46;lutes;madtap
+MPEG65235;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Jacareacanga, FloNa do Crepori, Rio Pacu, Cachoeira da Fumaça (06°07'12""S 57°17'24""W)";-57,29;-6,12;M; ;100;120;11;15,44;4,06;6,08;57,8;47,15;rub2;tapxin
+MPEG67608;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Jacareacanga, Rio Teles Pires, Fazenda João Carvalho (09°21'34,4""S 56°43'41,7""W) (Na etiqueta está Paranaita, MT)";-56,728;-9,36;M; ;;117;11;15,6;4,33;6,1;56,75;47,08;rub2;tapxin
+MPEG76264;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Jacareacanga, Vila Mamãe-anã, margem direita Tapajós (05°47'34,27""S 57°24'0,16""W)";-57,399;-5,955;F; ;100;104;9;15,27;4,09;8,12;50,95;44,92;rub2;tapxin
+MPEG76495;lutescens;madtap;lutes;lutes;Brasil;Pará;"Jacareacanga, Vila Mamãe-anã, margem esquerda Rio Tapajós (05°45'31,5""S 57°24'45,85""W)";-57,413;-5,754;M; ;100;132;10;15,47;4,14;7,67;59,25;45,54;lutes;madtap
+MPEG58157;lutescens;madtap;lutes;lutes;Brasil;Pará;Juruti, Base Capiranga, Igarapé Mutum (02°36'S 56°11'W);-56,183;-2,6;M; ;;170?;10;16,35;4,92;7,72;57,3;44,38;lutes;madtap
+MPEG56773;lutescens;madtap;lutes;lutes;Brasil;Pará;Juruti, Igarapé Mutum (02°36'S 56°11'W);-56,183;-2,6;F;;;;;;;;;;lutes;madtap
+MPEG56774;lutescens;madtap;lutes;lutes;Brasil;Pará;Juruti, Igarapé Mutum (02°36'S 56°11'W);-56,183;-2,6;; ;;;11,5;16,16;4,39;7,22;53,5;44,71;lutes;madtap
+MPEG60988;lutescens;madtap;lutes;lutes;Brasil;Pará;Juruti, Projeto Juruti/Alcoa, Acampamento Mutum (02°36'S 56°11'W);-56,183;-2,6;M; ;100;130;11;15,22;4,54;6,49;58,08;49,89;lutes;madtap
+MPEG60989;lutescens;madtap;lutes;lutes;Brasil;Pará;Juruti, Projeto Juruti/Alcoa, Acampamento Mutum (02°36'S 56°11'W);-56,183;-2,6;M; ;100;122;9,5;14,98;3,77;6,42;52,5;44,45;lutes;madtap
+MPEG60271;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Jutaí, RDS Cujubim, ca 390 km SW Jutaí (05°10'56""S 69°16'03""W)";-69,268;-5,182;M; ;;116;11;16,46;;6,71;62,12;;ferrtwo;solmad
+MPEG60270;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Jutaí, RDS Cujubim, ca 390 km SW Jutaí (05°13'11""S 68°19'00""W)";-68,317;-5,22;F; ;100;111;11;15,62;4,29;6,72;56,31;43,56;ferrtwo;solmad
+MPEG60272;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Jutaí, RDS Cujubim, margem E Rio Jutaí (05°38'19""S 69°10'59""W)";-69,184;-5,63;F; ;100;113;10;15,2;4,08;5,56;54,12;42,88;ferrtwo;solmad
+MPEG60273;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Amazonas;"Jutaí, RDS Cujubim, margem E Rio Jutaí (05°38'19""S 69°10'59""W)";-69,184;-5,63;M; ;100;113;11,5;16,17;4,23;7,26;59,23;45,34;ferrtwo;solmad
+MPEG71309;lutescens;madtap;lutes;lutes;Brasil;Rondônia;"Machadinho d'Oeste, margem direita Rio Jiparaná (08°54'32,9""S 62°10'00,3""W)";-61,167;-8,909;M; ;100;114;9;;;;;;lutes;madtap
+MPEG71310;lutescens;madtap;lutes;lutes;Brasil;Rondônia;"Machadinho d'Oeste, margem direita Rio Jiparaná (08°54'32,9""S 62°10'00,3""W)";-61,167;-8,909;F; ;100;110;10;15,52;4,44;5,95;55,35;45,87;lutes;madtap
+MPEG14619;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;Mãe do Rio, Rodovia Belém-Brasília BR 010 Km 75 (01°59'S 47°31'W);-47,516;-1,984;F;;;;;16,12;4,04;6,89;52,82;43,2;rub1;eastoc
+MPEG45573;luteifrons;guy;lutei;lutei;Brasil;Amazonas;"Manaus, Distrito Agropecuário da SUFRAMA (02°00'25""S 59°46'00""W)";-59,767;-2,007;;;;;9,5;15,41;4,1;6,06;54,07;45,62;lutei;guy
+MPEG45574;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, Distrito Agropecuário da SUFRAMA, Reserva 1110 (02°26'S 59°55'W);-59,917;-2,433;F; ;;;;15,18;3,93;6,45;54,86;44,6;lutei;guy
+MPEG53278;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;M;;;;;;;;;;lutei;guy
+MPEG53279;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;M; ;100;;9,7;14,75;4,22;6,2;55,65;43,68;lutei;guy
+MPEG53280;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;F; ;100;;9,9;15,7;4,14;6,43;54,49;45,3;lutei;guy
+MPEG53281;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;M; ;;;9,3;14,39;3,95;6,63;53,89;39,75;lutei;guy
+MPEG53282;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;M;;;;;;;;;;lutei;guy
+MPEG53283;luteifrons;guy;lutei;lutei;Brasil;Amazonas;Manaus, km 34 ZF-3, ca 80 km N de Manaus, Fazenda Esteio (02°27'S 59°55'W);-59,917;-2,45;M; ;100;;10,2;14,6;4,11;5,94;56,13;45,61;lutei;guy
+MPEG52814;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;"Mâncio Lima, ParNa Serra do Divisor, Alto Rio Moa, margem direita, Igarapé Ramon (07°26'30,1""S 73°45'48,6""W)";-73,763;-7,442;F; ;;109;12,4;15,8;4,12;5,76;55,23;46,07;ferrtwo;solmad
+MPEG52815;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;"Mâncio Lima, ParNa Serra do Divisor, Alto Rio Moa, margem direita, Igarapé Ramon (07°26'30,1""S 73°45'48,6""W)";-73,763;-7,442;M; ;50;106;11,6;15,84;4,09;5,7;52,38;39,06;ferrtwo;solmad
+MPEG34990;rubrifrons;eastoc;lutes;rubri;Brasil;Maranhão;"Maranhãozinho, Rio Maracaçumé/Paruá, Bom Jesus da Mata (02°22'40,3""S 45°54'56,6""W)";-45,999;-2,363;F; ;;103;10;15,16;4,26;7,53;53,51;39,9;rub1;eastoc
+MPEG74793;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Marcelândia, Santa Rita (11°04'59,5""S 54°19'42,4""W)";-54,321;-11,082;M; ;;110;10,5;15,37;4,16;6,49;59,86;49,47;rub2;tapxin
+MPEG74795;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Marcelândia, Santa Rita (11°04'59,5""S 54°19'42,4""W)";-54,321;-11,082;F; ;;111;10,8;14,43;;6,59;55,98;44,72;rub2;tapxin
+MPEG52240;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, margem direita Rio Tejo, ca 85 km da foz, Base Restauração (09°02'S 72°16'W);-72,267;-9,033;M; ;100;112;10,3;15,55;4,11;5,9;54,2;42,71;ferrtwo;solmad
+MPEG52242;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, margem esquerda Rio Tejo, ca 5 km da foz (09°00'S 72°42'W);-72,7;-9;M; ;;110;12,3;16,23;4,34;5,99;57,57;45,17;ferrtwo;solmad
+MPEG52243;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, margem esquerda Rio Tejo, ca 5 km da foz (09°00'S 72°42'W);-72,7;-9;F; ;100;111;12,4;15,9;4,22;5,08;54,13;44,59;ferrtwo;solmad
+MPEG52241;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, margem esquerda Rio Tejo, frente a Base Restauração (09°02'S 72°16'W);-72,267;-9,033;M; ;100;110;11,3;16,18;4,21;5,98;55,59;41,19;ferrtwo;solmad
+MPEG48452;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, Rio Juruá, margem esquerda, Porongaba (08°45'S 72°50'W);-72,833;-8,766;M; ;100;115;15,5;15,4;4,24;5,82;54,3;43,3;ferrtwo;solmad
+MPEG23796;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Marechal Thaumaturgo, Rio Juruá, seringal Oriente (08°48'S 72°46'W);-72,767;-8,8;M; ;;;;16,59;4,06;6,05;54,49;45,72;ferrtwo;solmad
+MPEG47948;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;Marituba (01°22'S 48°20'W);-48,333;-1,367;M;;;;;;;;;;rub1;eastoc
+MPEG82949;ferrugineifrons;solneg;ferr;ferrone;Brasil;Amazonas;"Novo Airão, ParNa do Jaú, Comunidade Tambor, margem direita Rio Jaú (02°17'40,3""S 62°27'19,5""W)";-62,455;-2,295;M;;;;;;;;;;ferrone;solneg
+MPEG78252;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Novo Progresso, BR 163, Fazenda Rubens (07°07'45,2""S 55°25'30,6""W)";-55,425;-7,129;M;;;;;;;;;;rub2;tapxin
+MPEG59275;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Novo Progresso, Fazenda Jamanxin, ca 30 km SW Castelo dos Sonhos (08°23'22,9""S 55°22'12,8""W)";-55,37;-8,389;M; ;100;106;10;15,34;3,96;7,28;66,34;45,78;rub2;tapxin
+MPEG59277;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Novo Progresso, Fazenda Jamanxin, ca 30 km SW Castelo dos Sonhos (08°23'22,9""S 55°22'12,8""W)";-55,37;-8,389;F; ;25;105;8;15,63;4,28;7,02;55,04;44,28;rub2;tapxin
+MPEG59276;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Novo Progresso, Fazenda Jamanxin, ca 30 km SW Castelo dos Sonhos (08°23'55,5""S 55°23'08""W)";-55,386;-8,399;M; ;100;109;8;16,71;4,28;6,55;57,92;47,47;rub2;tapxin
+MPEG36113;lutescens;xintoc;lutes;rubri;Brasil;Pará;"Novo Repartimento, Rio Tocantins, margem esquerda, 20 km S Jacundá, Saúde (04°39'59,8""S 49°34'60""W)";-49,698;-4,698;M; ;;100;;15,51;4,16;6,79;50,7;40,66;rub1;xintoc
+MPEG65083;luteifrons;guy;lutei;lutei;Brasil;Pará;Óbidos, Flota do Trombetas (ca 0°57'S 55°31'W);-55,517;-0,95;M; ;100;121;15,8;15,82;4,1;7,02;55,56;47,48;lutei;guy
+MPEG32019;luteifrons;guy;lutei;lutei;Brasil;Pará;"Oriximiná, Cachoeira Porteira, Rio Trombetas (01°03'04,6""S 57°02'37,7""W)";-57,044;-1,051;;;;;;14,72;4,09;6,69;53,22;46,82;lutei;guy
+MPEG32020;luteifrons;guy;lutei;lutei;Brasil;Pará;"Oriximiná, Cachoeira Porteira, Rio Trombetas (01°03'04,6""S 57°02'37,7""W)";-57,044;-1,051;;;;;;15,43;4,3;6,31;58,52;49,08;lutei;guy
+MPEG65994;luteifrons;guy;lutei;lutei;Brasil;Pará;"Oriximiná, Porto Trombetas (01°40'42,6""S 56°28'27,6""W)";-56,488;-1,681;; ;100;114;9;15,22;;6,19;54,6;;lutei;guy
+MPEG65995;luteifrons;guy;lutei;lutei;Brasil;Pará;"Oriximiná, Porto Trombetas (01°40'42,6""S 56°28'27,6""W)";-56,488;-1,681;; ;100;113;8;14,7;;6,49;50,57;;lutei;guy
+MPEG34610;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, Rio Trombetas, Cruz Alta Acampamento 22 (01°35'S 56°35'W);-56,583;-1,583;M; ;;;;15,82;4,18;5,9;58;;lutei;guy
+MPEG34611;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, Rio Trombetas, Cruz Alta Acampamento 22 (01°35'S 56°35'W);-56,583;-1,583;F; ;;;;14,59;4;6,38;52,63;44,29;lutei;guy
+MPEG34612;luteifrons;guy;lutei;lutei;Brasil;Pará;Oriximiná, Rio Trombetas, Cruz Alta Acampamento 22 (01°35'S 56°35'W);-56,583;-1,583;M; ;;;10,5;16,53;4,22;6,55;55,55;41,07;lutei;guy
+MPEG28448;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;Paragominas, BR 014 km 35 entre Pimental/Alto Rio Gurupi (03°03'S 46°49'W);-46,817;-3,05;M; ;;;;;;;;;rub1;eastoc
+MPEG58987;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;"Paragominas, Fazenda Rio Capim, CIKEL (03°40'10,7""S 48°33'34,7""W)";-48,559;-3,67;M; ;100;115;8;15,8;;7,24;57,41;42,45;rub1;eastoc
+MPEG69502;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Paranaíta, margem direita Rio Teles Pires (09°27'12,7""S 56°28'44,7""W)";-56,47;-9,449;M; ;;113;10;15,98;4,34;7,75;56,08;45,06;rub2;tapxin
+MPEG69503;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Paranaíta, margem direita Rio Teles Pires (09°27'12,7""S 56°28'44,7""W)";-56,47;-9,449;M; ;;110;10;16,18;;7,07;52,85;49,25;rub2;tapxin
+MPEG67606;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Paranaíta, Rio Teles Pires margem direita (09°27'12,7""S 56°28'44,7""W)";-56,47;-9,449;M; ;;115;10,5;16,05;4,12;6,93;55,97;45,56;rub2;tapxin
+MPEG69501;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Paranaíta, Rio Teles Pires margem esquerda (09°28'18,1""S 56°28'21,5""W)";-56,472;-9,484;M; ;;105;9,5;15,5;4,1;6,96;57,25;47,47;rub2;tapxin
+MPEG67607;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Paranaíta, Rio Teles Pires margem esquerda (09°29'11,3""S 56°28'35,5""W)";-56,472;-9,484;M; ;;115;9;15,25;3,83;7,07;56,74;46,87;rub2;tapxin
+MPEG38396;lutescens;xintoc;lutes;rubri;Brasil;Pará;Parauapebas, Carajás, Estrada do Caldeirão (06°02'S 50°10'W);-50,167;-6,033;M; ;;;10;15,79;4,09;6,41;55,3;44,92;rub1;xintoc
+MPEG38397;lutescens;xintoc;lutes;rubri;Brasil;Pará;Parauapebas, Carajás, Estrada do Caldeirão (06°02'S 50°10'W);-50,167;-6,033;M; ;;;10;17,46;4,42;6,5;53,47;45,8;rub1;xintoc
+MPEG38249;lutescens;xintoc;lutes;rubri;Brasil;Pará;Parauapebas, Carajás, Pojuca (05°55'S 50°30'W);-50,5;-5,917;M; ;;106;9;15,32;4,17;6,43;55,12;45,57;rub1;xintoc
+MPEG79958;lutescens;xintoc;lutes;rubri;Brasil;Pará;"Parauapebas, FloNa Carajás, Canga 1 Controle (06°03'14,26""S 50°14'56,08""W)";-50,249;-6,054;F;;;;;;;;;;rub1;xintoc
+MPEG79942;lutescens;xintoc;lutes;rubri;Brasil;Pará;"Parauapebas, FloNa Carajás, Canga 2 Impactada (06°04'27,52""S 50°11'04,02""W)";-50,19;-6,071;M; ;100;115;6;15,48;3,97;7,02;52,85;44,83;rub1;xintoc
+MPEG33832;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Peixoto de Azevedo, Fazenda São José (10°19'34,4""S 54°43'47,6""W)";-54,74;-10,346;M; ;100;110;10;15,34;;6,82;56,9;48,25;rub2;tapxin
+MPEG33833;lutescens;tapxin;lutes;rubri;Brasil;Mato Grosso;"Peixoto de Azevedo, Fazenda São José (10°19'34,4""S 54°43'47,6""W)";-54,74;-10,346;M; ;;115;10,6;15,39;4,29;6,87;56,01;45,69;rub2;tapxin
+MPEG61933;lutescens;xintoc;lutes;rubri;Brasil;Pará;Portel, FloNa de Caxiuanã, Plot PPBIO (01°57'S 51°36'W);-51,6;-1,95;F;;;;;;;;;;rub1;xintoc
+MPEG61934;lutescens;xintoc;lutes;rubri;Brasil;Pará;Portel, FloNa de Caxiuanã, Plot PPBIO (01°57'S 51°36'W);-51,6;-1,95;M; ;90;116;9,8;15,86;4,09;9,02;54,43;43,54;rub1;xintoc
+MPEG61935;lutescens;xintoc;lutes;rubri;Brasil;Pará;Portel, FloNa de Caxiuanã, Plot PPBIO (01°57'S 51°36'W);-51,6;-1,95;M; ;;113;9;14,52;4,09;6,6;54,68;44,08;rub1;xintoc
+MPEG61936;lutescens;xintoc;lutes;rubri;Brasil;Pará;Portel, FloNa de Caxiuanã, Plot PPBIO (01°57'S 51°36'W);-51,6;-1,95;F; ;100;108;8,5;15,21;3,93;8,71;53,6;43,16;rub1;xintoc
+MPEG61937;lutescens;xintoc;lutes;rubri;Brasil;Pará;Portel, FloNa de Caxiuanã, Plot PPBIO (01°57'S 51°36'W);-51,6;-1,95;M; ;90;114;10;14,8;4,23;6,98;53,03;40,39;rub1;xintoc
+MPEG60052;viridior;purmad;ferr;ferrtwo;Brasil;Acre;"Porto Acre, Reserva Humaitá (09°45'24,1""S 67°40'14,1""W)";-67,671;-9,757;F; ;;111;12;16,15;;5,8;55,15;42,05;ferrtwo;purmad
+MPEG60053;viridior;purmad;ferr;ferrtwo;Brasil;Acre;"Porto Acre, Reserva Humaitá (09°45'24,1""S 67°40'14,1""W)";-67,671;-9,757;M; ;100;102;11;14,93;;6,33;55,58;41,24;ferrtwo;purmad
+MPEG48454;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Porto Walter, Rio Juruá, margem direita, Sobral (08°23'S 72°50'W);-71,833;-8,383;;;100;113;10,5;15,4;4,08;5,67;53,48;41,17;ferrtwo;solmad
+MPEG48453;ferrugineifrons;solmad;ferr;ferrtwo;Brasil;Acre;Porto Walter, Rio Juruá, margem esquerda, Sobral (08°22'S 72°49'W);-71,833;-8,383;;;100;102;11;15,89;4,52;;55,63;45,17;ferrtwo;solmad
+MPEG69057;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Rurópolis, FloNa do Trairão, Fazenda Ticão (04°32'27,4""S 55°12'38,3""W)";-55,211;-4,541;M; ;98;123;8;15,11;4,92;6,71;55,08;48;rub2;tapxin
+MPEG69058;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Rurópolis, FloNa do Trairão, Fazenda Ticão (04°32'27,4""S 55°12'38,3""W)";-55,211;-4,541;M; ;100;116;;15,5;;7,37;55,44;45,4;rub2;tapxin
+MPEG69059;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Rurópolis, FloNa do Trairão, Fazenda Ticão (04°32'27,4""S 55°12'38,3""W)";-55,211;-4,541;M; ;100;121;;15,1;4,42;7,1;56,29;46,89;rub2;tapxin
+MPEG49130;lutescens;xintoc;lutes;rubri;Brasil;Pará;Santana do Araguaia, Fazenda Barra das Princesas (09°40'S 50°11'W);-50,183;-9,667;M; ;100;110;10;15,21;4,59;6,99;55,95;42,87;rub1;xintoc
+MPEG49131;lutescens;xintoc;lutes;rubri;Brasil;Pará;Santana do Araguaia, Fazenda Fartura (09°39'S 50°19'W);-50,317;-9,65;M; ;75;110;10;15,89;4,11;6,82;56,93;43,16;rub1;xintoc
+MPEG72397;lutescens;madtap;lutes;lutes;Brasil;Pará;Santarém, RESEX Tapajós/Arapiuns, Nova Canaã (03°09'S 55°49'W);-55,817;-3,15;M; ;100;115;10;15,32;4,12;7,89;53,92;46,92;lutes;madtap
+MPEG66987;lutescens;madtap;lutes;lutes;Brasil;Pará;Santarém, Rio Arapiuns (02°42'S 55°40'W);-55,667;-2,7;M; ;;113;13;16,89;3,87;8,54;55,91;46,52;lutes;madtap
+MPEG74233;lutescens;tapxin;lutes;rubri;Brasil;Pará;"São Félix do Xingu, ParNa da Serra Pardo, Base 1 (05°52'39,9""S 52°47'43,4""W)";-52,795;-5,878;M; ;40;102;10,6;15,35;4,42;6,58;56,62;48,27;rub2;tapxin
+MPEG77103;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, BI-1 (0°08'S 67°01'W);-67,017;-0,133;M; ;100;111;11;15,48;;6,12;55,07;46,02;ferrone;braneg
+MPEG77104;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, BI-1 (0°08'S 67°01'W);-67,017;-0,133;F; ;100;102;11;15,21;;6,6;57,61;43,13;ferrone;braneg
+MPEG77105;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, BI-1 (0°08'S 67°01'W);-67,017;-0,133;M; ;100;111;12;15,71;;6,52;55,54;43,09;ferrone;braneg
+MPEG77106;ferrugineifrons;braneg;ferr;ferrone;Brasil;Amazonas;São Gabriel da Cachoeira, BI-1 (0°08'S 67°01'W);-67,017;-0,133;M;;;102;10;15,11;4,22;6,5;52,58;41,85;ferrone;braneg
+MPEG55820;lutescens;xintoc;lutes;rubri;Brasil;Pará;"Senador José Porfírio, Rio Xingu, margem direita (03°31'47,2""S 51°43'58,6""W)";-51,729;-3,53;F; ;100;99;8,5;15,35;3,87;7,81;53,22;43,47;rub1;xintoc
+MPEG55819;lutescens;xintoc;lutes;rubri;Brasil;Pará;"Senador José Porfírio, Rio Xingu, margem direita (03°31'48""S 51°43'44""W)";-51,729;-3,53;F; ;75;105;8,5;15,7;3,91;7,38;54,77;43,39;rub1;xintoc
+MPEG74385;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;Tailândia, Agropalma, Castanheira (ca 02°52'S 48°36'W);-48,592;-2,869;M; ;;117;10;15,79;;6,06;54,93;49,88;rub1;eastoc
+MPEG22956;rubrifrons;eastoc;lutes;rubri;Brasil;Pará;Tomé-Açu, Estrada Jamic km 43 (02°09'S 48°00'W);-48,093;-2,316;M; ;;;;14,91;4,15;7,08;57,5;47,77;rub1;eastoc
+MPEG77827;lutescens;tapxin;lutes;rubri;Brasil;Pará;"Trairão (04°43'57""S 56°12'04""W)";-56,201;-4,733;M;;;;;;;;;;rub2;tapxin
+MPEG40264;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Vale do Anari, Cachoeira Nazaré, W Rio Ji-Paraná (09°44'S 61°53'W);-61,883;-9,73;F; ;100;;10;15,78;4,26;6,59;55,16;47,79;lutes;madtap
+MPEG40265;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Vale do Anari, Cachoeira Nazaré, W Rio Ji-Paraná (09°44'S 61°53'W);-61,883;-9,73;M; ;100;;11;16,13;4,07;6,77;55,54;42,79;lutes;madtap
+MPEG40266;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Vale do Anari, Cachoeira Nazaré, W Rio Ji-Paraná (09°44'S 61°53'W);-61,883;-9,73;M; ;;;9,9;14,75;4,13;6,74;55,94;42,63;lutes;madtap
+MPEG40267;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Vale do Anari, Cachoeira Nazaré, W Rio Ji-Paraná (09°44'S 61°53'W);-61,883;-9,73;M; ;;;9,4;15,36;4,08;7,98;51,37;42,43;lutes;madtap
+MPEG40268;lutescens;madtap;lutes;lutes;Brasil;Rondônia;Vale do Anari, Cachoeira Nazaré, W Rio Ji-Paraná (09°44'S 61°53'W);-61,883;-9,73;M; ;100;;10,8;15,65;4,25;6,62;55,25;47,7;lutes;madtap
+MPEG11027;lutescens;tapxin;lutes;rubri;Brasil;Pará;Rio iriri;-55,044;-7,021;M; ;;;;15,46;3,92;6,59;59,11;45,15;rub2;tapxin
+MPEG11030;lutescens;tapxin;lutes;rubri;Brasil;Pará;Rio iriri;-55,044;-7,021;F; ;;;;16,24;4,45;6,94;56,07;45,52;rub2;tapxin
+MPEG11030;lutescens;tapxin;lutes;rubri;Brasil;Pará;Rio iriri;-55,044;-7,021;F; ;;;;15,53;4,29;5,95;56,39;46,98;rub2;tapxin
+MPEG13074;lutescens;madtap;lutes;lutes;Brasil;Pará;Villa Braga, Rio Tapajoz;-56,321;-4,447;M; ;;;;15,79;4,3;5,84;54,64;44,72;lutes;madtap
+MPEG13080;lutescens;madtap;lutes;lutes;Brasil;Pará;Villa Braga, Rio Tapajoz;-56,17;-4,25;M; ;;;;;;;;;lutes;madtap
+AMNH435148;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;M;;;;;;;;;;ferrone;braneg
+AMNH435147;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;M;;;;;14,8;4,3;6,05;54,92;41,65;ferrone;braneg
+AMNH435151;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;M;;;;;;;;;;ferrone;braneg
+AMNH435149;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;M;;;;;15,62;4,33;6,5;;46,85;ferrone;braneg
+AMNH435154;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;;;;;;15,72;4,83;6,86;54,33;43,24;ferrone;braneg
+AMNH435150;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;M;;;;;15,97;4,22;5,95;54,02;40,02;ferrone;braneg
+AMNH435152;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;F;;;;;15,6;4,26;6,66;54,71;43,3;ferrone;braneg
+AMNH435153;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;"""Tatu"", Umarituba, Rio Negro";-67,2455;0,103;;;;;;16,63;4,1;6,75;57,41;45,78;ferrone;braneg
+AMNH256640;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Napo;Boca Curaray;-74,117;-2,39;M;;;;;15,83;3,96;6,29;57,97;48,16;ferrtwo;napjav
+LSUMZ111023;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;1 Km N Rio Napo, 157 Km by river NNE Iquitos;-73,045;-3,412;M;;75;;9,8;16,48;4,18;7,7;58,93;44,42;ferrtwo;napjav
+LSUMZ111022;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;1 Km N Rio Napo, 157 Km by river NNE Iquitos;-73,045;-3,412;M;;100;;9,6;15,48;4,02;8,39;55,61;46,79;ferrtwo;napjav
+LSUMZ111020;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;1.5 Km S libertad, S bank Rio Napo, 80 Km N Iquitos;-73,289;-3,013;F;;100;;;16,13;4,14;7,87;58,26;44,05;ferrtwo;napjav
+LSUMZ115021;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;1.5 Km S libertad, S bank Rio Napo, 80 Km N Iquitos;-73,289;-3,013;M;;oss;;11;16,28;3,8;5,85;56,06;45,84;ferrtwo;napjav
+LSUMZ24096;ochraceiceps;amc;ferr;amc;Mexico;Tabasco;10 mi S Chontalpa;-93,512;17,54;F;;;;11,5;16,18;3,95;6,82;59,51;49,71;amc;amc
+INPA1303;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;110 Km Santa Isabel do Rio Negro, Comunidade Campina do Rio Preto, Castanhal, M.E. Rio Preto;-64,09;-0,06;M;;100;;10;15,71;3,88;5,65;57,64;51,74;ferrone;braneg
+INPA1302;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;110 Km Santa Isabel do Rio Negro, Comunidade Campina do Rio Preto, Castanhal, M.E. Rio Preto;-64,1;-0,07;F;;5 (esta assim na etiqueta mesmo));;9,8;16,48;4,33;6,19;54,57;45,12;ferrone;braneg
+INPA1301;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;110 Km Santa Isabel do Rio Negro, Comunidade Campina do Rio Preto, Castanhal, M.E. Rio Preto;-64,09;-0,06;M;;100;;11;16,59;3,77;6,58;52,09;43,67;ferrone;braneg
+LSUMZ29985;pallidipectus;amc;ferr;amc;Honduras;Cortes;2 mi N Pito Solo;-87,969;14,813;F;;;;11,5;16,1;4,07;6,74;56,46;49,76;amc;amc
+LSUMZ29986;pallidipectus;amc;ferr;amc;Honduras;Cortes;2 mi N pito Solo;-87,969;14,813;M;;;;11,6;17,43;4,17;6,39;58,94;44,74;amc;amc
+LSUMZ61827;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;24 mi N Matias Romero;-95,051;17,175;M;;ossified;;;15,57;4,11;6,28;61,12;49,67;amc;amc
+LSUMZ117666;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;28 Km by road NE Tarapoto on road Yurimaguas;-76,272;-6,435;F;;40;;10;15,18;4,07;5,6;57,05;51,26;ferrtwo;napjav
+LSUMZ117667;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;28 Km by road NE Tarapoto on road Yurimaguas;-76,272;-6,435;M;J;not ossified;;12;14,33;3,9;7,03;56,42;42,25;ferrtwo;napjav
+LSUMZ117668;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;28 Km by road NE Tarapoto on road Yurimaguas;-76,272;-6,435;F;J;not ossified;;12;15,09;3,81;6,06;54,49;41,91;ferrtwo;napjav
+LSUMZ117669;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;28 Km by road NE Tarapoto on road Yurimaguas;-76,272;-6,435;M;;100;;14;;;;;;ferrtwo;napjav
+LSUMZ24746;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;28 mi N Mateos Romera;-95,051;17,175;M;;ossified;;11;15,76;3,86;6,02;55,34;51,31;amc;amc
+LSUMZ24097;ochraceiceps;amc;ferr;amc;Mexico;Tabasco;1 mi E Teapa;-92,925;17,564;M;;;;12,4;16,34;4,32;5,96;58,1;44,76;amc;amc
+AMNH816852;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;3 Km E San Carlos de Rio Negro;-67,031;1,926;M;;;;;15,28;4,2;6,39;57,41;43,53;ferrone;braneg
+AMNH816851;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;3 Km E San Carlos de Rio Negro;-67,031;1,926;M;;;;9,5;16,92;4,46;5,92;59,56;48,24;ferrone;braneg
+INPA1340;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;70 Km NNE Barcelos, Comunidade Sumauma, M.E. Rio Demeni;-62,78;-0,36;M;;100;;10,5;;;;;;ferrone;braneg
+LSUMZ61826;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;8 KM So. Of Solosuchiapa, camp on Rio Teapa;-93,009;17,359;M;;;;;15,62;;6,04;61,31;43,77;amc;amc
+AMNH128843;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Ananindeua;-48,23;-1,22;M;;;;;15,47;;6,1;61,3;46,59;rub1;eastoc
+AMNH232555;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Apayacu, R. Amazonas;-72,06;-3,19;M;;;;;14,83;3,65;5,65;51,96;39,94;ferrtwo;napjav
+LSUMZ41713;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Approx. 8 Km S from Solosuchiapa;-93,009;17,359;;;;;;;;;;;amc;amc
+LSUMZ41713;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Approx. 8 Km S from Solosuchiapa;-93,009;17,359;;;;;;16,85;4,19;6,15;53,69;43,47;amc;amc
+AMNH146371;viridior;bol;ferr;ferrtwo;Peru;;Astillero;-69,37;-13,22;F;;;;;15,28;4,18;6,31;54,13;45,5;ferrtwo;bol
+AMNH146370;viridior;bol;ferr;ferrtwo;Peru;;Astillero;-69,37;-13,22;M;;;;;;;;;;ferrtwo;bol
+AMNH431357;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;M;;;;;;;;;;rub1;eastoc
+AMNH431361;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;;;;;;15,25;;7,16;56,71;39,57;rub1;eastoc
+AMNH431358;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;M;;;;;15,57;4,44;6,26;57,19;41,97;rub1;eastoc
+AMNH431360;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;F;;;;;16,43;3,94;5,98;60,25;50,12;rub1;eastoc
+AMNH431362;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;;;;;;16,03;4,05;6,07;51,26;44,86;rub1;eastoc
+AMNH431359;rubrifrons;eastoc;lutes;rubri;Brazil;Para;Baiao, Pedra , Rio Tocantins;-49,663;-2,821;M;;;;;15,35;4,1;6,07;54,35;48,57;rub1;eastoc
+INPA380;luteifrons;guy;lutei;lutei;Brazil;Amazonas;Balbina, estrada S1, Rio Uatumã, Margem direita;-59,499;-1,933;M;;ossificado;101;;15,25;4,71;6,25;58,25;47,11;lutei;guy
+AMNH179689;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Below San José de Sumaco;-77,2;-0,26;F;;;;;14,62;4,17;6,84;56,98;45,66;ferrtwo;napjav
+FMNH93796;ochraceiceps;amc;ferr;amc;Guatemala;Izabal;Bobos;-88,734;15,393;M;;;;;14,33;4,31;5,66;59,59;46,31;amc;amc
+AMNH121030;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Boce de Sina, Cunucunuma River, Upper Orinoco;-65,529;3,25;F;;;;;17,67;;6,85;59,46;47,75;ferrone;braneg
+AMNH391828;pallidipectus;amc;ferr;amc;Costa Rica;Cartago;Bonilla;-83,699;10,02;M;;;;;14,85;4,02;7,19;56,19;46,45;amc;amc
+AMNH505364;pacificus;amc;ferr;amc;Costa Rica;;Boruca;-83,331;9;F;;;;;15,48;4,1;6,27;55,72;45,18;amc;amc
+AMNH102301;pacificus;amc;ferr;amc;Costa Rica;;Boruca;-83,331;9;F;;;;;17,05;4,2;6,68;59,59;47,73;amc;amc
+AMNH102299;pacificus;amc;ferr;amc;Costa Rica;;Boruca;-83,331;9;M;;;;;16,05;;7,99;55,28;42,49;amc;amc
+ANSP186971;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Sucumbios;ca 14 Km N de Tigre Playa;-76,3;0,33;M;;100;;12,2;16,88;;8,51;;45,81;ferrtwo;napjav
+ANSP182804;bulunensis;cho;ferr;cho;Ecuador;Esmeraldas;ca 20 Km by road NNW, Alto Tambo 275;-78,54;0,95;F;;100;;;16,12;;6,93;56,3;42,91;cho;cho
+ANSP182803;bulunensis;cho;ferr;cho;Ecuador;Esmeraldas;ca 20 Km by road NNW, Alto Tambo 275;-78,54;0,95;F;;50;;;14,38;4,11;5,46;53,51;42,35;cho;cho
+ANSP17156;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Sucumbios;ca 20 Km NE Lumbaqui;-77,183;0,148;M;;100;;12;15,43;3,94;5,98;56,74;47,63;ferrtwo;napjav
+INPA2704;ferrugineifrons;solneg;ferr;ferrone;Brazil;Amazonas;ca 22 km Santa Isabel, afluente M.D. Rio Negro, M.D. Rio Aiuana;-64,916;-0,583;M;;40;;10,5;16,25;4,11;6,06;57,36;49,58;ferrone;solneg
+INPA1121;ferrugineifrons;solneg;ferr;ferrone;Brazil;Amazonas;ca 3 Km SW Sao Gabriel da cachoeira, M.D. Rio Negro, trilha do moises;-67,097;-0,148;M;;100;;11;16,08;4,26;6,44;50,17;45,31;ferrone;solneg
+INPA1122;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;ca 3 km SW Sao Gabriel da cachoeira, M.E. Rio Negro, trilha do moises;-67,061;-0,131;M;;ossificado;;11;16,48;3,85;6,55;57,08;46,71;ferrone;braneg
+ANSP186713;luteifrons;guy;lutei;lutei;Guyana;Upper Demerara-Berbice;ca 5 Km Mabura Hill, between Essequibo and Demerara Rivers;-58,65;5,31;F;;100;;8;15,99;3,98;6,29;58,39;49,45;lutei;guy
+ANSP182806;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Morona-Santiago;ca 5 Km SW Saisha;-77,49;-2,36;M;;100;;12;;;;;;ferrtwo;napjav
+ANSP182805;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Morona-Santiago;ca 5 Km SW Saisha;-77,49;-2,36;M;;100;;11;15,44;3,64;5,44;59,35;45,85;ferrtwo;napjav
+ANSP182807;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Morona-Santiago;ca 5 km SW Saisha;-77,49;-2,36;F;;100;;13;16,5;4,44;6,3;58,68;45,63;ferrtwo;napjav
+LSUMZ85328;viridior;napjav;ferr;ferrtwo;Peru;San Martin;ca 50 Km W Rioja;-77,495;-5,763;F;;oss;;10,5;;;;;;ferrtwo;napjav
+LSUMZ85329;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;ca 50 Km W Rioja;-77,495;-5,763;M;;oss;;11,7;16,52;4,08;6,66;54,52;47,78;ferrtwo;napjav
+AMNH505309;lutescens;madtap;lutes;lutes;Brazil;Para;Calama, Rio Machado, Confl. Rio Madeira;-62,53;-8,03;M;;;;;;;;;;lutes;madtap
+LSUMZ108652;bulunensis;amc;ferr;amc;Panama;Darien;Cana (on E slope Cerro Pirre) ;-77,684;7,757;M;;oss;;10,8;;;;;;amc;amc
+AMNH271782;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;;;;;;ferrone;braneg
+AMNH271783;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;;;;;;ferrone;braneg
+AMNH271784;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;14,48;4,13;5,71;57,6;46,57;ferrone;braneg
+AMNH271448;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;14,05;3,77;5,74;55,55;42,81;ferrone;braneg
+AMNH271480;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;15,3;4,23;6,97;52,41;45,01;ferrone;braneg
+AMNH271481;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;15,59;4,31;6,05;54,38;47,96;ferrone;braneg
+AMNH271479;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Cano Seco, Mt. Duida;-65,32;3,2;M;;;;;14,25;4,08;5,05;49,78;42,62;ferrone;braneg
+AMNH328017;pallidipectus;amc;ferr;amc;Honduras;;Cantoral, Tegucigalpa;-87,4;14,333;F;;;;;16,92;3,38;;49,92;42,64;amc;amc
+AMNH328016;pallidipectus;amc;ferr;amc;Honduras;;Cantoral, Tegucigalpa;-87,4;14,333;;;;;;15,07;3,69;6,17;59,84;45,18;amc;amc
+AMNH287724;lutescens;tapxin;lutes;rubri;Brazil;Para;Caxiricatuba, Rio Tapajos;-54,983;-2,872;F;;;;;16,44;3,96;6,05;57,91;43,55;rub2;tapxin
+AMNH505310;luteifrons;guy;lutei;lutei;French Guyana;;Cayenne, Approuague, Ipoucin;-52,239;4,09;M;;;;;15,56;3,69;5,51;55,58;43,62;lutei;guy
+AMNH505311;luteifrons;guy;lutei;lutei;French Guyana;;Cayenne, Approuague, Ipoucin;-52,239;4,09;F;;;;;16,12;3,79;5,32;56,42;48,09;lutei;guy
+AMNH505312;luteifrons;guy;lutei;lutei;French Guyana;;Cayenne, Approuague, Ipoucin;-52,239;4,09;F;;;;;15,22;4,15;6,8;57,3;45,44;lutei;guy
+FMNH324034;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Cerro de Pantiacolla, above Rio Palotoa;-71,151;-12,35;M;;100;;11;15,6;4,02;6,87;57,7;44,89;ferrtwo;bol
+FMNH324039;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Cerro de Pantiacolla, above Rio Palotoa;-71,151;-12,35;F;;75;;11,8;15,62;4,03;6,32;57,15;45,51;ferrtwo;bol
+FMNH324037;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Cerro de Pantiacolla, above Rio Palotoa;-71,151;-12,35;F;;100;;9,9;16,19;3,84;5,55;56,54;49,28;ferrtwo;bol
+FMNH324035;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Cerro de Pantiacolla, above Rio Palotoa;-71,151;-12,35;M;;25;;12,5;14,94;3,86;6,01;59,4;44,62;ferrtwo;bol
+AMNH820850;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Huanuco;Cerros del Cira;-74,783;-9,499;M;;;;;16,89;4,04;6,57;58,54;47,21;ferrtwo;solmad
+AMNH820850;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Huanuco;Cerros del Cira;-74,783;-9,499;M;;100;;13;16,78;4,07;5,88;56,58;44,9;ferrtwo;solmad
+FMNH190005;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Junin;Chanchamayo;-75,19;-11,03;M;;;;;16,22;4,06;6,47;57,49;45,88;ferrtwo;purmad
+FMNH190006;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Junin;Chanchamayo;-75,19;-11,03;M;;;;;16,12;4,09;6,17;57,22;46,28;ferrtwo;purmad
+AMNH824984;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Chiapas, Ocozocoautla;-93,455;16,919;F;;100;;11,6;14,87;3,98;6,51;55,86;44,65;amc;amc
+ANSP119611;viridior;bol;ferr;ferrtwo;Bolivia;La Paz;Chiniri, Rio Kaka;-67,45;-15,16;M;;;;;16,41;;6,1;58,62;45,14;ferrtwo;bol
+ANSP119612;viridior;bol;ferr;ferrtwo;Bolivia;La Paz;Chiniri, Rio Kaka;-67,45;-15,16;M;;;;;15,89;3,9;4,37;57,68;54,31;ferrtwo;bol
+ANSP119613;viridior;bol;ferr;ferrtwo;Bolivia;La Paz;Chiniri, Rio Kaka;-67,45;-15,16;F;;;;;16,27;3,87;5,8;54,75;47,2;ferrtwo;bol
+ANSP119609;viridior;bol;ferr;ferrtwo;Bolivia;La Paz;Chiniri, Rio Kaka;-67,45;-15,16;F;;;;;14,7;3,85;5,75;55,9;48,08;ferrtwo;bol
+ANSP119610;viridior;bol;ferr;ferrtwo;Bolivia;La Paz;Chiniri, Rio Kaka;-67,45;-15,16;F;;;;;14,58;3,62;6,79;53,16;46,68;ferrtwo;bol
+AMNH505358;pacificus;amc;ferr;amc;Panama;La Paz;Chiriqui, Bogava;-82,621;8,476;M;;;;;14,95;4,03;6,42;56,31;50,25;amc;amc
+AMNH40123;ochraceiceps;amc;ferr;amc;Mexico;;City of Mexico;;;;;;;;15,62;4,15;6,79;58,32;49,41;amc;amc
+AMNH819873;viridior;purmad;ferr;ferrtwo;Peru;;Cordilleera Vilcabamba, 6 Km E of Louisiana;-73,664;-12,641;M;;100;;;15,27;4,15;7,42;60,55;44,24;ferrtwo;purmad
+FMNH120410;luteifrons;guy;lutei;lutei;British Guyana;;Courantyne, Itabu Creek Head, Boundary Camp;-58,062;1,513;M;;;;;15,38;4,37;6,7;58,63;50,34;lutei;guy
+FMNH120411;luteifrons;guy;lutei;lutei;British Guyana;;Courantyne, Itabu Creek Head, Boundary Camp;-58,062;1,513;F;;;;;16,14;4;5,65;57,91;47,16;lutei;guy
+CM136040;ochraceiceps;amc;ferr;amc;Mexico;Veracruz;Coyame, (7 mi e of Catemaco);-95,066;18,449;F;;;;;16,2;4,22;5,8;57,89;44,81;amc;amc
+CM136042;ochraceiceps;amc;ferr;amc;Mexico;Veracruz;Coyame, (7 mi e of Catemaco);-95,066;18,449;F;;;;;15,19;;7,73;58,22;47,61;amc;amc
+AMNH408431;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Cutucu, Oriental;-77,526;-2,4;M;;;;;15,04;4,35;6,74;60,32;49,03;ferrtwo;napjav
+CM99917;ochraceiceps;amc;ferr;amc;Belize;;Duck Run, Benque Ceiba;-89,076;17,249;M;;;;;15,96;3,95;5,89;60,7;48,96;amc;amc
+AMNH391827;pacificus;amc;ferr;amc;Costa Rica;;El Pozo, Rio Terraba, Puntarenas;-83,508;8,984;M;;;;;;4,35;6,43;58,13;49,61;amc;amc
+AMNH391826;pacificus;amc;ferr;amc;Costa Rica;;El Pozo, Rio Terraba, Puntarenas;-83,508;8,984;M;;;;;16,32;4,19;6,25;54,54;46,62;amc;amc
+INPA1824;lutescens;madtap;lutes;lutes;Brazil;Rondonia;Entorno Rebio Jaru, M.E. Rio Jiparana, prox. a sede ca 80km N Jiparana;-61,923;-10,174;M;;100;;10;16,64;4,05;6,68;55,05;43,78;lutes;madtap
+FMNH93798;ochraceiceps;amc;ferr;amc;Guatemala;Izabal;Escobas;-89,128;15,402;M;;;;;16,39;4,27;6,19;57,36;45,1;amc;amc
+FMNH93797;ochraceiceps;amc;ferr;amc;Guatemala;Izabal;Escobas;-89,128;15,402;;;;;;15,88;4;6,22;54,79;44,4;amc;amc
+FMNH53031;ferrugineifrons;bol;ferr;ferrtwo;Bolivia;Cochabamba;Espiritu Santo;-65,381;-17,049;M;;;;;;;;;;ferrtwo;bol
+FMNH53030;viridior;bol;ferr;ferrtwo;Bolivia;Cochabamba;Espiritu Santo;-65,381;-17,049;M;;;;;16,38;4,25;6,68;60,66;47,86;ferrtwo;bol
+FMNH293010;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Estacion de Bombeo Guamez;-76,999;0,401;M;;;;;17,05;3,82;5,8;57,94;44,07;;japnap
+FMNH293013;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Estacion de Bombeo Guamez;-76,999;0,401;F;;;;;;;;;;;japnap
+FMNH293014;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Estacion de Bombeo Guamez;-76,999;0,401;F;;;;;15,53;;9,37;61,48;47,61;;japnap
+FMNH293011;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Estacion de Bombeo Guamez;-76,999;0,401;;;;;;;;;;;;japnap
+FMNH293012;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Estacíon de Bombeo Guaméz;-76,999;0,401;M;;;;;15,91;4,07;5,53;56,34;51,86;;japnap
+AMNH284583;luteifrons;guy;lutei;lutei;British Guyana;;Faro, R. Jamunda, Castanhal;-56,44;2,11;M;;;;;15,37;4,31;6,04;52,48;44,92;lutei;guy
+AMNH284585;luteifrons;guy;lutei;lutei;British Guyana;;Faro, R. Jamunda, Castanhal;-56,44;2,11;;;;;;14,89;4,03;6,67;55,17;45,04;lutei;guy
+INPA3703;lutescens;tapxin;lutes;rubri;Brazil;Para;FLONA Tapajos, ca 32 km NE Aveiro, M. D. Rio Tapajos, Com. Itapuama;-55,2;-3,358;M;;95;;;15,47;4,12;5,63;57,55;43,93;rub2;tapxin
+CM25037;ochraceiceps;amc;ferr;amc;Belize;;Forest near Manatee Lagoon;-88,486;17,199;M;J;;;;16,28;4,13;5,89;52,86;39,87;amc;amc
+CM27566;ochraceiceps;amc;ferr;amc;Belize;;Forest near Manatee Lagoon;-88,383;17,199;M;;;;;16,05;3,92;6,08;54,8;45,21;amc;amc
+CM116712;ochraceiceps;amc;ferr;amc;Belize;Stann Creek;Freetown(Sittee River);-88,294;16,828;F;;;;;16,21;4,23;6,34;55,06;44,01;amc;amc
+ANSP75629;pallidipectus;amc;ferr;amc;Nicaragua;;Gt. Falls Pis Pis River, 10 mi N W Eden;-84,862;13,878;F;;;;;;;;;;amc;amc
+CM28024;pallidipectus;amc;ferr;amc;Costa Rica;Limon;Guacimo;-83,734;10,129;M;;;;;14,79;4,42;6;56,79;44,2;amc;amc
+CM28095;pallidipectus;amc;ferr;amc;Costa Rica;Limon;Guacimo (3 km W El Hogar);-83,734;10,129;M;;;;;15,8;4,17;6,54;55,66;43,4;amc;amc
+CM13322;pallidipectus;amc;ferr;amc;Costa Rica;Limon;Guapiles;-83,857;10,168;F;;;;;16,3;4,24;6,73;58,59;47,99;amc;amc
+CM13321;pallidipectus;amc;ferr;amc;Costa Rica;Limon;Guapiles;-83,857;10,168;M;;;;;15,35;4,13;5,92;55,98;45,92;amc;amc
+ANSP160115;bulunensis;cho;ferr;cho;Colombia;Narino;Guayacana;-78,27;1,26;F;;;;;15,52;3,93;6,05;57,76;46,36;cho;cho
+ANSP160116;bulunensis;cho;ferr;cho;Colombia;Narino;Guayacana;-78,27;1,26;F;;;;;15,92;;7,56;;;cho;cho
+ANSP102551;viridior;bol;ferr;ferrtwo;Peru;Sandia;Huacamayo;-69,386;-13,311;M;;;;;15,4;;8,4;57,49;43,81;ferrtwo;bol
+ANSP102549;viridior;bol;ferr;ferrtwo;Peru;Sandia;Huacamayo;-69,386;-13,311;;;;;;15,55;3,78;5,86;53,15;45,51;ferrtwo;bol
+AMNH287726;lutescens;madtap;lutes;lutes;Brazil;Para;Igarape Brabo, Rio Tapajos;-55,21;-2,435;M;;;;;15,79;;6,6;56,3;47,52;lutes;madtap
+AMNH287725;lutescens;madtap;lutes;lutes;Brazil;Para;Igarape Brabo, Rio Tapajos;-55,21;-2,435;M;;;;;16,11;4,22;6,5;55,54;41,74;lutes;madtap
+INPA1;lutescens;tapxin;lutes;rubri;Brazil;Para;Itaituba, M.D. Rio Tapajos, M.E. Rio Jamanxim, mod E 1000m;-56,5;-4,758;M;;50;;10;15,07;4,08;5,69;54,82;44,17;rub2;tapxin
+INPA2;lutescens;tapxin;lutes;rubri;Brazil;Para;Itaituba, M.D. Tapajos, M.D. Jamanxim, mod. F2000m;-56,5;-4,883;M;;95;;10;15,7;4,01;6,2;49,05;46,65;rub2;tapxin
+AMNH311289;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Iucai, 30 Km SE of São Gabriel da Cachoeira, upper Rio Negro;-66,49;0,13;F;;;;;15,28;3,86;6,05;54,81;45,41;ferrone;braneg
+AMNH311300;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Iucai, 30 Km SE of São Gabriel da Cachoeira, upper Rio Negro;-66,49;0,13;M;;;;;;;;;;ferrone;braneg
+AMNH311301;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Iucai, 30 Km SE of São Gabriel da Cachoeira, upper Rio Negro;-66,49;0,13;F;;;;;14,74;4,02;5,65;51;42,39;ferrone;braneg
+ANSP188982;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve ca 3 Km road SW Kurupukari;-58,71;4,63;M;;100;;10;14,75;3,81;6,42;48,16;40,28;lutei;guy
+ANSP188978;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, ca 3mi SW Kutupukari;-58,71;4,63;F;;100;;9,2;16,08;3,9;3,9;57,35;46,98;lutei;guy
+ANSP188975;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Kabocalli landing, W bank Essequibo River, ca 45 river mi SE Kurupukari;-58,51;4,28;F;J;25;;8,9;15,08;3,78;6,04;57,99;45,45;lutei;guy
+ANSP188979;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Kabocalli landing, W bank Essequibo River, ca 45 river mi SE Kurupukari;-58,51;4,28;M;J?;25;;8,6;16,7;4,11;6,31;57,27;44,81;lutei;guy
+ANSP188984;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Kabocalli landing, W bank Essequibo River, ca 45 river mi SE Kurupukari;-58,51;4,28;M;;;;9,3;15,55;3,98;6,19;59,13;42,75;lutei;guy
+ANSP188980;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Kabocalli landing, W bank Essequibo River, ca 45 river mi SE Kurupukari;-58,51;4,28;F;;100;;9;;;;;;lutei;guy
+ANSP188974;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, vicinity Pakatau fall, S. side Siparuni River at confluence with Pkutau creek;-59,01;4,75;F;;100;;13;;;;;;lutei;guy
+ANSP188981;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, vicinity Pakatau fall, S. side Siparuni River at confluence with Pkutau creek;-59,01;4,75;F;;75;;9;16,12;3,98;5,67;52,91;44,22;lutei;guy
+ANSP188977;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Victoria-Kabocalli camp ;-58,51;4,28;M;;100;;9,9;15,22;4,28;6,56;59,49;;lutei;guy
+ANSP188976;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama reserve, W bank Essequivo river, ca 45 river mi SE Kurupukari;-58,51;4,28;F;;100;;9,3;15,75;4,17;6,36;60,11;46,07;lutei;guy
+ANSP188983;luteifrons;guy;lutei;lutei;Guyana;;Iwokrama Reserve, Wandapa? Wallaba? (Epema?), Forest on white sand;-59,72;4,55;F;J?;50;;10;15,59;3,94;6,04;53,72;41,34;lutei;guy
+ANSP121356;ochraceiceps;amc;ferr;amc;Guatemala;Izabal;Izabal;-89,13;15,4;M;;;;;15,88;4,05;6,43;57,98;47,25;amc;amc
+FMNH260634;luteifrons;guy;lutei;lutei;Surinam;;Kaisebeg airstrip, Zuid River;-56,479;3,079;F;;;;;16,03;3,76;6,43;51,92;45,26;lutei;guy
+FMNH260633;luteifrons;guy;lutei;lutei;Surinam;;Kaisebeg airstrip, Zuid River;-56,479;3,079;M;;;;;15;3,49;4,94;55,74;42,85;lutei;guy
+AMNH821508;luteifrons;guy;lutei;lutei;British Guyana;Mazaruni-Potaro;Kalacoon;-58,39;6,24;M;;;;;16,27;4,18;7,06;;45,99;lutei;guy
+AMNH40142;luteifrons;guy;lutei;lutei;British Guyana;Mazaruni-Potaro;Kamakusa;-59,54;5,57;M;;;;;15,37;4,32;6,43;55,12;45,58;lutei;guy
+AMNH806374;luteifrons;guy;lutei;lutei;British Guyana;;Kartab;-58,41;6,23;M;;;;;15,54;3,79;6,01;54,63;48,02;lutei;guy
+AMNH821509;luteifrons;guy;lutei;lutei;British Guyana;;Kartabo;-58,41;6,23;F;;;;;16,94;3,86;5,92;53,32;44,71;lutei;guy
+FMNH250939;bulunensis;cho;ferr;cho;Colombia;Narino;La Guayacana;-78,27;1,26;F;;;;;14,83;4,28;6,06;54,58;46,46;cho;cho
+AMNH146372;viridior;bol;ferr;ferrtwo;Peru;;La Pampa;-69,36;-13,39;F;;;;;14,74;4,19;6,76;56,07;49,55;ferrtwo;bol
+AMNH505302;ferrugineifrons;solneg;ferr;ferrone;Venezuela;Bolivar;La Prision, Caura, R. Orinoco;-64,851;6,979;F;;;;;16,19;3,92;;56,61;49,48;ferrone;solneg
+AMNH504204;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;La Union;-64,54;6,85;M;;;;;14,91;4,49;6,93;58,85;47,66;ferrone;braneg
+ANSP62051;pallidipectus;amc;ferr;amc;Costa Rica;;La Vijagua;-85,039;10,729;M;;;;;15,38;4,37;6,01;57,49;46,72;amc;amc
+AMNH505363;pacificus;amc;ferr;amc;Costa Rica;;Lagarto;-83,314;8,954;F;;;;;16,02;4,75;6,34;56,36;;amc;amc
+AMNH505361;pacificus;amc;ferr;amc;Costa Rica;;Lagarto;-83,314;8,954;M;;;;;16,1;4,38;7,2;55,7;41,06;amc;amc
+AMNH505362;pacificus;amc;ferr;amc;Costa Rica;;Lagarto;-83,314;8,954;M;;;;;15,6;4,2;6,26;53,1;45,25;amc;amc
+AMNH239530;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Loreto;Lagarto, Alto Ucayali;-73,49;-10,41;;;;;;15,32;;6,98;56,57;48,55;ferrtwo;purmad
+AMNH239529;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Loreto;Lagarto, Alto Ucayali;-73,49;-10,41;M;;;;;15,65;;8,01;;43,38;ferrtwo;solmad
+AMNH461308;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Laguna Ocotel;-91,428;16,792;M;;;;11,4;16,09;;7,26;58,13;48,17;amc;amc
+AMNH144467;pallidipectus;amc;ferr;amc;Nicaragua;;Los Sabalos, San Juan River;-84,486;11,042;F;;;;;15,27;;7,86;54,04;45,86;amc;amc
+AMNH144466;pallidipectus;amc;ferr;amc;Nicaragua;;Los Sabalos, San Juan River;-84,486;11,042;M;;;;;16,14;4,42;6,26;55,74;46,49;amc;amc
+INPA3;lutescens;tapxin;lutes;rubri;Brazil;Para;M.D. Rio Tapajos, M.D. Rio Jamanxim, ca 80 km SW Itaituba;-56,417;-4,883;M;;75;;10;15,27;4,48;6,39;54,19;42,73;rub2;tapxin
+INPA4;lutescens;tapxin;lutes;rubri;Brazil;Para;M.D. Rio Tapajos, M.D. Rio Jamanxim, ca 80 km SW Itaituba;-56,417;-4,883;F;;50;;9;16,02;4,19;7,22;57;43,23;rub2;tapxin
+INPA5;lutescens;tapxin;lutes;rubri;Brazil;Para;Machado, M.D. Rio Tapajos, M.E. Rio Jamanxim, 140 Km SW Itaituba;-56,917;-5,233;M;;75;;9;14,74;3,8;6,28;58,41;46,27;rub2;tapxin
+INPA6;lutescens;tapxin;lutes;rubri;Brazil;Para;Machado, M.D. Rio Tapajos, M.E. Rio Jamanxin, 146 Km SW Itaituba;-56,917;-5,217;F;;100;;10;15,84;4,27;5,79;60,19;45,97;rub2;tapxin
+CM66652;bulunensis;cho;ferr;cho;Colombia;Choco;Malagita;-77,1;4,1;F;;;;;13,14;4,04;6,12;56,87;40,14;cho;cho
+CM66712;bulunensis;cho;ferr;cho;Colombia;Choco;Malagita;-77,1;4,1;F;;;;;14,37;4,13;6,25;52,06;44,83;cho;cho
+INPA529;luteifrons;guy;lutei;lutei;Brazil;Amazonas;Manaus, Distrito Agropecuario da SUFRAMA, ZF-3 KM33;-59,819;-2,434;M;;;110;;15,55;3,9;4,92;55,97;46,62;lutei;guy
+AMNH103192;pallidipectus;amc;ferr;amc;Nicaragua;;Matagalpa;-85,918;12,996;M;;;;;16,24;4,06;5,53;54,76;39,45;amc;amc
+FMNH99625;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Napo-Pastaza;Mera-oriente;-78,07;-1,293;;;;;;15,58;4,51;5,42;61,49;51,47;ferrtwo;napjav
+AMNH505360;pallidipectus;amc;ferr;amc;Costa Rica;;Miravalles;-85,161;10,753;F;;;;;15,94;4,7;6,78;54,74;43,82;amc;amc
+AMNH505359;pallidipectus;amc;ferr;amc;Costa Rica;;Miravalles;-85,161;10,753;M;;;;;14,44;4,43;6,14;55,36;44,83;amc;amc
+AMNH391829;pallidipectus;amc;ferr;amc;Costa Rica;;Miravalles;-85,161;10,753;M;;;;;15,73;3,84;7,06;60,7;50,51;amc;amc
+AMNH505299;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Monduapo, R. Orinoco;-67,819;4,858;M;;;;;16,26;4,71;5,79;55,82;46,18;ferrone;braneg
+AMNH448400;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Montebello, 24 mi N Matias Romero;-95,051;17,175;F;;;;;16,4;4,19;5,89;55,16;45,19;amc;amc
+AMNH448399;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Montebello, 24 mi N Matias Romero;-95,051;17,175;M;;;;;16,32;4,5;5,67;50,9;42,47;amc;amc
+ANSP151773;ferrugineifrons;;ferr;;Colombia;Caqueta;Morelia;-75,74;1,496;F;;;;;16,27;4;6,69;57,27;49,58;;
+FMNH308891;ochraceiceps;amc;ferr;amc;Mexico;Veracruz;Motzorongo;-96,737;18,624;M;;;;;15,48;4,28;6,08;56,95;46,36;amc;amc
+AMNH149012;viridior;bol;ferr;ferrtwo;Bolivia;;Mouth of Rio San Antonio, Rio Espirito Santo;-65,491;-16,777;M;;;;;16,19;4,33;6,28;59,08;47,03;ferrtwo;bol
+AMNH149011;viridior;bol;ferr;ferrtwo;Bolivia;;Mouth of Rio San Antonio, Rio Espirito Santo;-65,491;-16,777;F;;;;;;;;;;ferrtwo;bol
+AMNH149013;viridior;bol;ferr;ferrtwo;Bolivia;;Mouth of Rio San Antonio, Rio Espirito Santo;-65,491;-16,777;F;;;;;;;;;;ferrtwo;bol
+ANSP116660;ferrugineifrons;napjav;ferr;ferrtwo;Peru;San Martin;Moyabamba;-76,593;-6,031;F;;;;;;;;;;ferrtwo;napjav
+AMNH324805;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Auyan-Tepui;-62,502;5,931;M;;;;;16,19;4,07;5,89;58,79;46,92;ferrone;braneg
+AMNH324906;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Auyan-Tepui;-62,502;5,931;M;;;;;15,1;4,62;6,43;52,96;45,57;ferrone;braneg
+AMNH324909;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Auyan-Tepui;-62,502;5,931;;;;;;15,08;3,99;6,47;53,57;45,27;ferrone;braneg
+AMNH275228;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, foothills camp;-65,695;3,737;M;;;;;;;;;;ferrone;braneg
+AMNH275227;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, foothills campo;-65,695;3,737;F;;;;;17,05;4,13;6,51;56,05;50,42;ferrone;braneg
+AMNH2752218;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;;;;;;ferrone;braneg
+AMNH275218;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;F;;;;;;;;;;ferrone;braneg
+AMNH275213;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;;;;;;;;;;42,29;ferrone;braneg
+AMNH275219;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;;;;;;16,27;3,96;6,42;59,12;48,78;ferrone;braneg
+AMNH275217;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;;;;;;ferrone;braneg
+AMNH275211;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;F;;;;;;;;;;ferrone;braneg
+AMNH275210;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;;;;;;;;;;;ferrone;braneg
+AMNH275216;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;16,31;4,24;6,27;57,68;43,04;ferrone;braneg
+AMNH275220;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;16,62;4,47;6,05;54,17;45,36;ferrone;braneg
+AMNH275212;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;;4,67;6,24;57,38;;ferrone;braneg
+AMNH275214;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;M;;;;;16,5;4,37;6,06;58,96;44,81;ferrone;braneg
+AMNH275221;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Mt. Duida, pie del Cerro;-65,695;3,737;F;;;;;16,04;3,97;5,36;57,23;48,42;ferrone;braneg
+AMNH505301;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Munduapo, Rio Orinoco;-67,819;4,858;M;;;;;16,7;4,24;6,27;59,6;47,56;ferrone;braneg
+AMNH505300;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Nericagua, R. Orinoco;-67,741;4,404;M;;;;;15,79;4;6,28;58,01;50,65;ferrone;braneg
+AMNH505313;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Nicare, Caura R, Orinoco;-64,827;6,567;F;;;;;16,07;4,18;5,82;57,69;46,98;ferrone;braneg
+AMNH505306;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Nicare, Caura R, Orinoco;-64,827;6,567;F;;;;;15,94;3,99;6,19;55,78;46,33;ferrone;braneg
+FMNH186232;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Ocosingo;-92,138;16,903;M;;;;;16,05;4,45;6,16;56,98;46,79;amc;amc
+FMNH186233;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Ocosingo;-92,138;16,903;M;;;;;16,37;4,39;6,65;57,48;51,75;amc;amc
+FMNH155940;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Ocozocoautla;-93,455;16,919;F;;;;;15,49;3,95;5,9;60,34;48,73;amc;amc
+LSUMZ167615;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Ocozocoautla, 26 Km N by Road;-93,583;17,091;F;;100;;10,2;15,3;4,14;5,89;58,51;50;amc;amc
+LSUMZ167616;ochraceiceps;amc;ferr;amc;Mexico;Chiapas;Ocozocoautla, 26 Km N by Road;-93,583;17,091;F;;100;;10,7;;;;;;amc;amc
+AMNH433584;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Opposite El Merey, Rio Cassaquiare, R. Bank, Venezuela;-65,866;3,129;M;;;;;14,84;3,75;6,47;55,22;43,75;ferrone;braneg
+LSUMZ20759;ochraceiceps;amc;ferr;amc;Belize;;Orange walk Dist, Gallon Jug;-89,033;17,55;M;;;;9,7;16,52;4,04;6,89;59,61;50,14;amc;amc
+LSUMZ21305;ochraceiceps;amc;ferr;amc;Belize;;Orange walk Dist, Gallon Jug;-89,033;17,55;;;;;10,2;15,72;4,17;6,08;57,43;45,63;amc;amc
+LSUMZ20761;ochraceiceps;amc;ferr;amc;Belize;;Orange walk Dist, Gallon Jug;-89,033;17,55;F;;;;10,7;17,98;4,47;6,1;60,75;49,11;amc;amc
+LSUMZ10760;ochraceiceps;amc;ferr;amc;Belize;;Orange walk Dist, Gallon Jug;-89,033;17,55;M;;;;10,8;14,19;3,5;6,35;56,05;45,9;amc;amc
+ANSP204954;pallidipectus;amc;ferr;amc;Nicaragua;;P. N. Saslaya;-85,015;13,714;M;;100;;;15,49;4,02;5,84;54,82;45,72;amc;amc
+FMNH121294;ochraceiceps;amc;ferr;amc;Mexico;Campeche;Pacaitum;-91,08;18,22;M;;;;;14,21;4,36;6,73;50,98;41,94;amc;amc
+ANSP138834;viridior;bol;ferr;ferrtwo;Bolivia;Chochabamba;Palmar Yungas ;-66,45;-16,2;M;;;;;16,1;3,71;5,79;54,21;46,91;ferrtwo;bol
+ANSP133835;viridior;bol;ferr;ferrtwo;Bolivia;Cochabamba;Palmar Yungas ;-66,45;-16,2;M;;;;;15,74;;7,81;56,02;47,93;ferrtwo;bol
+FMNH262379;luteifrons;guy;lutei;lutei;Surinam;;Paloemeu airstrip, Tapanahoni River;-55,078;3,484;;;;;;15,68;;8,71;55,83;44,44;lutei;guy
+AMNH783985;nelsoni;amc;ferr;amc;Panama;;Panama Canal Zone, 6 mi N of Gamboa;-79,767;9,193;F;;;;;16,41;;7,52;57,43;42,09;amc;amc
+AMNH785946;nelsoni;amc;ferr;amc;Panama;;Panama Canal Zone, Madden Forest;-79,617;9,1;M;;;;;14,58;;7,45;;41,56;amc;amc
+AMNH391831;pallidipectus;amc;ferr;amc;Costa Rica;Limon;Parismina;-83,384;10,316;F;;;;;15,86;;8,95;57,24;;amc;amc
+INPA7;lutescens;tapxin;lutes;rubri;Brazil;Para;PARNA Amazonia, M.D. Tapajos, ca 85 Km SW Itaituba;-56,5;-4,738;M;;100;;12;15,57;4,14;5,88;59,65;45,37;rub2;tapxin
+INPA8;lutescens;madtap;lutes;lutes;Brazil;Para;PARNA Amazonia, M.E. Tapajos, 40 SW Itaituba;-56,266;-4,5;M;;100;;11;15,45;3,26;5,19;56,71;50,25;lutes;madtap
+INPA9;lutescens;madtap;lutes;lutes;Brazil;Para;PARNA Amazonia, M.E. Tapajos, 66 SW Itaituba;-56,438;-4,651;M;;;;11;15,2;;5,5;59,1;45,05;lutes;madtap
+INPA10;lutescens;madtap;lutes;lutes;Brazil;Para;PARNA Amazonia, M.E. Tapajos, ca 85 Km SW Itaituba;-56,639;-4,694;M;;75;;10,5;14,08;4,15;6,27;54,99;46,37;lutes;madtap
+INPA1000;ferrugineifrons;solneg;ferr;ferrone;Brazil;Amazonas;Parque Nacional do Jau, M.E. Rio Jau, Comunidade Seringalzinho;-61,595;-1,833;M;;100;;11;15,74;4,02;5,84;59,88;50,29;ferrone;solneg
+ANSP185942;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Napo;Pasohurco, 57 km on Hollin-Loreto road ;-77,279;-0,661;M;;100;;12,5;15,23;3,9;6,29;56,51;46,44;ferrtwo;napjav
+LSUMZ180810;pallidipectus;amc;ferr;amc;Honduras;Atlantida;Pico Bonito, N. P. ;-86,917;15,633;M;;100;;10,9;;;;;;amc;amc
+CM65830;luteifrons;guy;lutei;lutei;French Guyana;;Pied Saut (Fleuve Oyapock);-51,67;4,13;M;;;;;;;;;;lutei;guy
+CM65722;luteifrons;guy;lutei;lutei;French Guyana;;Pied Saut (Fleuve Oyapock);-51,67;4,13;M;;;;;;;;;;lutei;guy
+AMNH275223;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Playa del Rio, Base;-66,33;2,21;M;;;;;17,12;3,97;5,96;59,65;53,83;ferrone;braneg
+AMNH275226;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Playa del Rio, Base;-66,33;2,21;F;;;;;17,26;;9,11;54,04;49,66;ferrone;braneg
+AMNH275222;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Playa del Rio, Base;-66,33;2,21;M;;;;;15,47;4,16;6,34;55,64;38,5;ferrone;braneg
+AMNH275224;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Playa del Rio, Base;-66,33;2,21;M;;;;;15,79;4,45;5,89;56,97;42,39;ferrone;braneg
+AMNH275225;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Playa del Rio, Base;-66,33;2,21;F;;;;;16,15;4,16;6,48;56,63;49,07;ferrone;braneg
+LSUMZ180809;pallidipectus;amc;ferr;amc;Honduras;Atlantida;PN Pico Bonito, El Naranjom ;-86,917;15,633;M;;100;;10,2;16,27;4,18;6,09;48,68;42,07;amc;amc
+INPA4128;viridior;purmad;ferr;ferrtwo;Brazil;Rondonia;Porto Velho, Girau, M.E. Rio Madeira, p4000;-64,9;-9,31;M;;100;;12;16,65;3,9;5,82;58;47,96;ferrtwo;purmad
+CM66511;bulunensis;cho;ferr;cho;Colombia;Choco;Potedo;-76,927;4,527;F;;;;;15,94;4,07;5,84;57,33;45,72;cho;cho
+CM66512;bulunensis;cho;ferr;cho;Colombia;Choco;Potedo;-76,927;4,527;M;;;;;15,64;3,96;6,57;57,18;47,42;cho;cho
+AMNH102300;pacificus;amc;ferr;amc;Costa Rica;;Pozo del Rio Grande, Boruca;-83,509;8,985;;;;;;15,36;4,09;6,09;57,98;45,46;amc;amc
+LSUMZ125496;viridior;bol;ferr;ferrtwo;Bolivia;Beni;Prov. Grad. Ballivian, Serrania Pilon, 27 Km by road N Rio Quiquibey on road to San Borja;-67,093;-15,376;F;;100;;11,1;16,44;3,85;6,27;55,1;47,04;ferrtwo;bol
+LSUMZ125497;viridior;bol;ferr;ferrtwo;Bolivia;Beni;Prov. Grad. Ballivian, Serrania Pilon, 27 Km by road N Rio Quiquibey on road to San Borja;-67,093;-15,376;M;;100;;10;17,31;4,42;5,92;56,48;44,84;ferrtwo;bol
+LSUMZ134003;viridior;purmad;ferr;ferrtwo;Bolivia;Pando;Prov. Nicolas Suarez, 12 Km by road S Cobija, 8 Km W on road to mucden;-68,867;-11,163;M;;100;;12;15,26;4,45;6,34;60,72;49,8;ferrtwo;purmad
+LSUMZ134004;viridior;purmad;ferr;ferrtwo;Bolivia;Pando;Prov. Nicolas Suarez, 12 Km by road S Cobija, 8 Km W on road to mucden;-68,867;-11,163;M;;95;;9,4;16,23;4,22;6,2;58,44;46,24;ferrtwo;purmad
+LSUMZ134006;viridior;purmad;ferr;ferrtwo;Bolivia;Pando;Prov. Nicolas Suarez, 12 Km by road S Cobija, 8 Km W on road to mucden;-68,867;-11,163;M;;100;;10,6;16,14;4,29;6;59,54;51,64;ferrtwo;purmad
+LSUMZ134003;viridior;purmad;ferr;ferrtwo;Bolivia;Pando;Prov. Nicolas Suarez, 12 Km by road S Cobija, 8 Km W on road to mucden;-68,867;-11,163;M;;100;;10,5;14,67;4,01;8,02;46,7;58;ferrtwo;purmad
+ANSP836554;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Amazonas;Pta. Indiana, Rio Amazonas ;-72,82;-3,42;F;;;;;14,78;;7,16;51,81;44,55;ferrtwo;napjav
+AMNH232558;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Puerto Indiana;-72,82;-3,42;M;;;;;15,5;;7,89;52,89;46,26;ferrtwo;napjav
+AMNH232557;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Puerto Indiana;-72,82;-3,42;M;;;;;15,61;4,58;5,92;58,47;45,86;ferrtwo;napjav
+AMNH391830;pacificus;amc;ferr;amc;Costa Rica;Puntarenas;Puerto Jimenez (Golfo Dulce);-83,309;8,527;M;;;;;16,11;4,48;6,81;57,6;44,52;amc;amc
+FMNH398579;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Quebrada Aguas Calientes, 2,75 Km de Shintuaya, Alto Madre de Dios (left bank);-71,267;-12,666;F;;100;;11,25;15,66;;7,54;55,31;42,6;ferrtwo;bol
+INPA11;luteifrons;guy;lutei;lutei;Brazil;Amazonas;RDS Uatuma, M.D. Rio Uatuma, Iagarape campina, a 7 Km da comunidade Bela Vista;-59,03;-2,283;M;;25;;15;15,53;3,83;6,5;59,97;45,44;lutei;guy
+INPA1825;lutescens;madtap;lutes;lutes;Brazil;Rondonia;REBIO Jaru, M.E. Rio Jiparana, prox. A sede 82 Km da cidade, ;-61,923;-10,174;F;;75;;10;16,02;4,11;6,25;57,97;46,99;lutes;madtap
+AMNH840351;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Ucayali;Reserva Comunal El Sira, Quebrada Tambo;-74,476;-9,474;F;;75;;11;15,69;4,37;6,53;58,59;45,21;ferrtwo;solmad
+AMNH840350;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Ucayali;Reserva Comunal El Sira, Quebrada Tambo;-74,476;-9,474;M;;100;;10,8;15,7;3,93;6,2;55,02;42,81;ferrtwo;solmad
+INPA1633;ferrugineifrons;solmad;ferr;ferrtwo;Brazil;Amazonas;Resex Catua-Ipixuna, M.D. Rio Solimões, Igarape Paracuuba, ca 40 km R. solimoes;-64,34;-3,97;M;;95;;10;15,43;4,11;6,6;54,9;44,43;ferrtwo;solmad
+FMNH316406;viridior;solmad;ferr;ferrtwo;Peru;Madre de Dios;Ridge above Hacienda Amazonia;-71,373;-12,873;F;;100;;10;;;;;;ferrtwo;solmad
+FMNH316401;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Ridge above Hacienda Amazonia;-71,373;-12,873;M;;100;;11;16,24;4,03;6,68;57,56;40,43;ferrtwo;bol
+FMNH316402;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Ridge above Hacienda Amazonia;-71,373;-12,873;M;;100;;11,8;15,66;4,84;6,99;56,6;44,88;ferrtwo;bol
+FMNH324947;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Ridge above Hacienda Amazonia;-71,373;-12,873;F;;100;;10;16,03;4,12;6,01;54,29;44,91;ferrtwo;bol
+FMNH34048;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;Ridge above Hacienda Amazonia;-71,373;-12,873;F;;100;;10,9;15,75;4,09;6,33;56,97;49,43;ferrtwo;bol
+FMNH324048;viridior;bol;ferr;ferrtwo;Peru;Madre de Dios;ridge above Hacienda Amazonia;-71,373;-12,873;F;;100;;10,9;;;;;;ferrtwo;bol
+AMNH819685;viridior;purmad;ferr;ferrtwo;Peru;;Rio apurimac, Luisiana;-73,44;-12,39;F;;100;;;14,88;3,94;5,66;54,11;47,57;ferrtwo;purmad
+LSUMZ103268;viridior;bol;ferr;ferrtwo;Bolivia;La Paz ;Rio Beni, ca 20 Km by river below Puerto Linares, 600 m;-67,533;-15,467;F;;75;;10;16,28;4,34;7,2;57,85;45,9;ferrtwo;bol
+LSUMZ103269;viridior;bol;ferr;ferrtwo;Bolivia;La Paz ;Rio Beni, ca 20 Km by river below Puerto Linares, 600 m;-67,533;-15,467;F;;50;;10;15,41;4,2;6,02;55,61;45,26;ferrtwo;bol
+LSUMZ103270;viridior;bol;ferr;ferrtwo;Bolivia;La Paz ;Rio Beni, ca 20 Km by river below Puerto Linares, 600 m;-67,533;-15,467;M;;100;;11;15,84;3,92;8,88;58,25;43,54;ferrtwo;bol
+LSUMZ103271;viridior;bol;ferr;ferrtwo;Bolivia;La paz ;Rio Beni, ca 20 Km by river below Puerto Linares, 600 m;-67,533;-15,467;F;;ossified;;10;14,73;3,73;6,37;54,02;42,64;ferrtwo;bol
+AMNH505307;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Rio Caura;-64,851;6,979;;;;;;15,3;;9,16;54;40,24;ferrone;braneg
+LSUMZ52365;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Loreto;Rio Curanja, Balta;-71,209;-10,091;M;;;;11,6;16,07;4,24;8,92;59,24;42,28;ferrtwo;purmad
+LSUMZ52369;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Loreto;Rio Curanja, Balta;-71,209;-10,091;F;;;;;15,01;4,42;6,01;55,72;42,94;ferrtwo;purmad
+INPA2661;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Rio Daraba, M.D., Afluente M.E. Rio Negro, 25 Km E Santa Isabel;-64,799;-0,4;M;;25;;11;14,57;4,7;5,67;54,32;47,85;ferrone;braneg
+INPA2659;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Rio Daraba, M.D., Afluente M.E. Rio Negro, 25 Km E Santa Isabel;-64,799;-0,4;F;;25;;10;15,28;3,99;5,72;51,79;44,88;ferrone;braneg
+INPA2660;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Rio Daraba, M.D., Afluente M.E. Rio Negro, 25 Km E Santa Isabel;-64,799;-0,4;;J;5;;10;15,99;4,24;6,39;48,19;42,48;ferrone;braneg
+INPA2658;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Rio Daraba, M.D., Afluente M.E. Rio Negro, 25 Km E Santa Isabel;-64,799;-0,4;M;;5;;12;;;;;;ferrone;braneg
+AMNH460611;ferrugineifrons;;ferr;;Colombia;Meta;Rio Duda (Duita), Mt. Macarena;-73,729;3,018;M;;;;;;;;;;;
+AMNH102966;pallidipectus;amc;ferr;amc;Nicaragua;;Rio Grande;-84,84;12,945;F;;;;;;;;;;amc;amc
+AMNH433589;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Huaynia junction with Rio Cassiquiare, R. Bank;-67,06;2,073;F;;;;;15,99;;7,62;57,4;43,3;ferrone;braneg
+AMNH433588;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Huaynia junction with Rio Cassiquiare, R. Bank;-67,06;2,073;F;;;;;16,94;;7,89;61,52;43,14;ferrone;braneg
+AMNH433586;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Huaynia junction with Rio Cassiquiare, R. Bank;-67,06;2,073;M;;;;;15,36;;8,45;54,45;43,24;ferrone;braneg
+AMNH433587;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Huaynia junction with Rio Cassiquiare, R. Bank;-67,06;2,073;F;;;;;16,18;;7,76;57,25;41,34;ferrone;braneg
+INPA12;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.D. ca 65 Km SE Vila Bittencourt, Colocacao Arapana;-69,033;-1,849;M;;100;;11,5;15,43;4,76;8,62;60,39;42,49;ferrthr;solneg
+INPA13;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.D. ca 65 Km SE Vila Bittencourt, Colocacao Arapana;-69,033;-1,849;F;;100;107;10;16,66;3,82;6,25;49,68;50,24;ferrthr;solneg
+INPA14;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.D. ca 65 Km SE Vila Bittencourt, Colocacao Arapana;-69,033;-1,849;M;;100;108;11;15,71;3,95;5,83;59,89;48,12;ferrthr;solneg
+INPA15;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.D. ca 65 Km SE Vila Bittencourt, Colocacao Arapana;-69,033;-1,849;F;;100;115;12;15,64;4,16;5,74;54,68;43,2;ferrthr;solneg
+INPA16;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.E., ca 50 km SE Vila Bitencourt, Comunidade Taboca;-69,033;-1,849;F;;100;117;10,5;15,31;4,09;5,69;58,54;48,34;ferrthr;solneg
+INPA17;ferrugineifrons;solneg;ferr;ferrthr;Brazil;Amazonas;Rio Japura, M.E., ca 50 km SE Vila Bitencourt, Comunidade Taboca;-69,033;-1,849;M;;100;114;11;15,5;4,04;6,34;54,98;49,04;ferrthr;solneg
+ANSP145958;bulunensis;cho;ferr;cho;Colombia;Choco;Rio Jurubida, Alto de Buey;-77,259;5,9;M;;;;;16,1;4,62;7,32;59,56;49,48;cho;cho
+ANSP119616;viridior;bol;ferr;ferrtwo;Bolivia;;Teoponte, Rio Kaka;-67,834;-15,476;M;;;;;;;;;;ferrtwo;bol
+ANSP176295;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Rio Maniti, Santa Cecilia;-72,953;-3,6;M;;75;;11;16,1;4,57;6,69;57,6;45,84;ferrtwo;napjav
+ANSP176293;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Rio Maniti, Santa Cecilia;-72,953;-3,6;M;;100;;12,5;15,46;4,53;5,76;55,36;43,42;ferrtwo;napjav
+ANSP176294;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Rio Maniti, Santa Cecilia;-72,953;-3,6;F;;100;;11,25;15,84;4,6;6,78;55,82;49,55;ferrtwo;napjav
+LSUMZ37374;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Amazonas;Rio Marañon, Urakusa;-78,02;-4,676;M;;;;;;;;;;ferrtwo;napjav
+AMNH841773;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Mavaca, Base Camp;-65,638;1,5;M;;ossificado?;;11,5;15,72;4,47;5,78;60,19;47,19;ferrone;braneg
+AMNH433592;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Orinoco, Orilla derecha, frente a la boca del R. Ocamo;-65,209;2,81;M;;;;;16,44;4,01;6,63;58;44,01;ferrone;braneg
+AMNH433590;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Orinoco, Orilla Ezquierda, frente a la boca del R. Ocamo;-65,23;2,776;F;;;;;15,91;4,64;;64,07;50,35;ferrone;braneg
+AMNH433591;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Orinoco, Orilla Ezquierda, frente a la boca del R. Ocamo;-65,23;2,776;F;;;;;16,88;4,17;5,79;60,61;46,52;ferrone;braneg
+AMNH433593;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Rio Orinoco, Orilla Ezquierda, frente a la boca del R. Ocamo;-65,23;2,776;F;;;;;16,74;4,41;5,77;60,01;48,4;ferrone;braneg
+ANSP165405;ferrugineifrons;japnap;ferr;;Colombia;;Rio Rumiyaco;-76,62;1,074;;;;;;;;;;;;japnap
+ANSP165404;ferrugineifrons;japnap;ferr;;Colombia;;Rio San Miguel;-77,097;0,342;M;;;;;;;;;;;japnap
+AMNH183574;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno abajo cf coordenadas;-77,239;-0,705;F;;;;;15,51;4,23;5,88;60,37;;ferrtwo;napjav
+AMNH183570;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno abajo cf coordenadas;-77,239;-0,705;M;;;;;16,23;4,6;6,23;66,21;47,74;ferrtwo;napjav
+AMNH183573;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno abajo cf coordenadas;-77,239;-0,705;M;;;;;15,5;4,49;6,3;59,64;46,38;ferrtwo;napjav
+AMNH183572;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno abajo cf coordenadas;-77,239;-0,705;M;;;;;16,79;4,73;6,58;58,16;46,66;ferrtwo;napjav
+AMNH183571;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno abajo cf coordenadas;-77,239;-0,705;M;;;;;;;;;;ferrtwo;napjav
+AMNH179685;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno, above Avila;-77,413;-0,612;M;;;;;15,6;3,96;5,28;53,4;43,88;ferrtwo;napjav
+AMNH179687;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno, above Avila;-77,413;-0,612;M;;;;;14,28;;7,78;56,37;41;ferrtwo;napjav
+AMNH179688;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno, above Avila;-77,413;-0,612;M;;;;;16,1;;5,69;54,92;44,88;ferrtwo;napjav
+AMNH179686;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno, above Avila;-77,413;-0,612;F;;;;;16,61;4,36;6,18;58,34;46,96;ferrtwo;napjav
+AMNH179684;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;Rio Suno, above Avila;-77,413;-0,612;M;;;;;16,17;3,95;5,49;57,49;44,76;ferrtwo;napjav
+CM119403;viridior;bol;ferr;ferrtwo;Bolivia;Santa Cruz;Rio Surutu;-63,714;-17,476;;;;;;15,04;4,03;6,83;55,61;45,42;ferrtwo;bol
+INPA381;luteifrons;guy;lutei;lutei;Brazil;Para;Rio trombetas, M.E., 67 Km NNE da Foz do Rio Mapurá;-56,78;-0,64;M;;55;109;9,5;15,86;4,2;6,17;58,76;47,77;lutei;guy
+CM44041;viridior;bol;ferr;ferrtwo;Bolivia;Santa Cruz;Rio Yapacani;-63,878;-17,387;M;;;;;17,48;;6,88;55,05;;ferrtwo;bol
+CM50758;viridior;bol;ferr;ferrtwo;Bolivia;Santa Cruz;Rio Yapacani;-63,878;-17,387;M;;;;;15,89;4,19;6,17;58,71;47;ferrtwo;bol
+CM33787;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Rio Yuruan;-61,4;6,44;M;;;;;15,87;4,24;6,26;54,88;43,96;ferrone;braneg
+CM33767;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Rio Yuruan;-61,4;6,44;M;;;;;16,31;4,34;6,61;55,62;50,62;ferrone;braneg
+FMNH287503;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;San Antonio - Guaméz;-76,89;0,499;F;;;;;14,93;4,1;6,16;57,86;;;japnap
+FMNH287505;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;San Antonio - Guaméz;-76,89;0,499;F;;;;;16,02;4,6;6,25;56,88;40,65;;japnap
+FMNH287503;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;San Antonio - Guaméz;-76,89;0,499;F;;;;;16,2;4,34;6,25;59,91;49,16;;japnap
+FMNH287502;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;San Antonio - Guaméz;-76,89;0,499;M;;;;;15,92;4,24;5,51;60,26;48,87;;japnap
+FMNH287504;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;San Antonio - Guaméz;-76,89;0,499;;;;;;;;;;;;japnap
+AMNH183581;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Sucumbios;San Jose Abajo;-77,351;-0,389;F;;;;;;;;;;ferrtwo;napjav
+AMNH183580;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;San Jose Abajo;-77,351;-0,389;F;;;;;14,28;4,04;6,38;53,36;47,37;ferrtwo;napjav
+AMNH183576;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;San Jose Abajo;-77,351;-0,389;M;;;;;16,73;4,31;5,75;55,81;44,72;ferrtwo;napjav
+AMNH183577;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;San Jose Abajo;-77,351;-0,389;M;;;;;16,78;4,08;6,08;57,58;51,59;ferrtwo;napjav
+AMNH183575;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;;San Jose Abajo;-77,351;-0,389;M;;;;;16,11;4,32;5,73;57,23;46,21;ferrtwo;napjav
+LSUMZ22087;pallidipectus;amc;ferr;amc;Nicaragua;Matagalpas;San Rafael del Norte;-86,115;13,207;F;;;;;13,86;4,45;5,83;57,6;45,93;amc;amc
+AMNH187702;nelsoni;amc;ferr;amc;Panama;;Santa Fé, Veraguas;-81,107;8,558;M;;;;;14,74;4,23;5,65;55,43;48,03;amc;amc
+AMNH187703;nelsoni;amc;ferr;amc;Panama;;Santa Fé, Veraguas;-81,107;8,558;F;;;;;16,23;4,33;6,78;52,93;44,24;amc;amc
+ANSP181803;ferrugineifrons;napjav;ferr;ferrtwo;Ecuador;Morona-Santiago;Santiago;-78,049;-3,05;M;;100;;13;16,19;4,21;6,09;57,31;48,66;ferrtwo;napjav
+AMNH238554;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Loreto;Sarayacu;-75,06;-6,44;M;;;;;14,52;4,25;5,7;55,53;44,37;ferrtwo;napjav
+CM61084;luteifrons;guy;lutei;lutei;French Guyana;;Saut Tamanoir, Fleuve Mana;-53,749;5,149;M;;;;;16,41;4,05;5,84;57,59;45,94;lutei;guy
+CM61354;luteifrons;guy;lutei;lutei;French Guyana;;Saut Tamanoir, Fleuve Mana;-53,749;5,149;M;;;;;15,45;4;6,38;56,49;44,88;lutei;guy
+CM61306;luteifrons;guy;lutei;lutei;French Guyana;;Saut Tamanoir, Fleuve Mana;-53,749;5,149;F;;;;;16,49;3,8;5,7;48,87;48,42;lutei;guy
+CM61731;luteifrons;guy;lutei;lutei;French Guyana;;Saut Tamanoir, Fleuve Mana;-53,749;5,149;F;;;;;15,71;4,19;6,15;54,61;50,28;lutei;guy
+AMNH102607;pallidipectus;amc;ferr;amc;Nicaragua;;Savala, Matagalpa;-85,458;13,058;F;;;;;16,05;4,27;6,33;53,31;40,97;amc;amc
+LSUMZ156803;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Ucayali;SE slope Cerro Tahuayo, ca 65 Km ENE Pucallpa;-73,98;-8,111;M;;100;;12;15,27;4,17;6,28;54,87;43,99;ferrtwo;solmad
+LSUMZ66435;ochraceiceps;amc;ferr;amc;Guatemala;Alta Verapaz;Sebol;-89,949;15,801;;J;not ossified;;;15,64;4,48;6,11;57,09;45,58;amc;amc
+LSUMZ66436;ochraceiceps;amc;ferr;amc;Guatemala;Alta Verapaz;Sebol;-89,949;15,801;M;;ossified;;;16,12;4,23;6,26;53,36;42,7;amc;amc
+AMNH311297;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-66,5;0,2;;;;;;;;;;;ferrone;braneg
+AMNH311298;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-66,5;0,2;F;;;;;16,72;4,59;7,09;57,08;44,03;ferrone;braneg
+AMNH311291;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-66,5;0,2;M;;;;;14,72;4,17;6,45;54,92;43,63;ferrone;braneg
+AMNH311295;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-66,5;0,2;M;;;;;15,62;4,21;5,81;58,26;49,01;ferrone;braneg
+AMNH311293;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-67,15;0,04;F;;;;;16,2;3,96;5,9;55,92;49,86;ferrone;braneg
+AMNH311294;ferrugineifrons;braneg;ferr;ferrone;Brazil;Amazonas;Serra Curicuriari;-67,15;0,04;M;;;;;15,55;4,11;5,75;53,91;49,6;ferrone;braneg
+LSUMZ156804;ferrugineifrons;solmad;ferr;ferrtwo;Peru;Ucayali;Slope SE Cerro Tahuayo ca 65 Km ENE Pucallpa;-74,017;-8,134;M;;100;;11;16,88;4,12;6,57;55,73;47,15;ferrtwo;solmad
+AMNH433585;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;Solano, Rio Cassaquiare;-66,57;2;F;;;;;17,1;4,17;5,89;56;47,29;ferrone;braneg
+ANSP119617;viridior;bol;ferr;ferrtwo;Bolivia;;Sta. Ana, Rio Coroico;-67,599;-13,833;M;;;;;;;;;;ferrtwo;bol
+LSUMZ19987;pallidipectus;amc;ferr;amc;Honduras;;Sta. Barbara: 4 mi SW Jaral;-88,104;14,918;M;;;;12,3;;;;;;amc;amc
+LSUMZ29988;pallidipectus;amc;ferr;amc;Honduras;;Sta. Barbara: Cerro Santa Barbara, east slope;-88,104;14,918;M;;;;;16,4;4,3;5,68;55,89;50,59;amc;amc
+AMNH505302;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Suapure, Orinoco;-65,183;7,297;M;;;;;16,04;4,15;5,96;53,81;44,47;ferrone;braneg
+AMNH78490;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Suapure, Orinoco;-65,183;7,297;M;;;;;15,67;4,24;6,61;61,4;48,77;ferrone;braneg
+AMNH75904;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Suapure, Orinoco;-65,183;7,297;F;;;;;15,83;4,54;5,62;57,22;46,61;ferrone;braneg
+AMNH505303;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Suapure, Orinoco;-65,183;7,297;F;;;;;15,86;4,1;5,89;57,79;48,82;ferrone;braneg
+AMNH75903;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Suapure, Orinoco;-65,183;7,297;F;;;;;16,23;4,07;6,03;57,15;49,65;ferrone;braneg
+AMNH816853;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Amazonas;SW Cerro Neblina;-66,167;0,85;F;;;;;14,29;3,8;5,78;54,13;46,46;ferrone;braneg
+AMNH136173;bulunensis;amc;ferr;amc;Panama;;Tacarcuna;-77,174;8,111;M;;;;;15,65;4,05;6,4;54,21;48,61;amc;amc
+AMNH136174;bulunensis;amc;ferr;amc;Panama;;Tacarcuna;-77,174;8,111;M;;;;;;;;;;amc;amc
+AMNH435142;ferrugineifrons;braneg;ferr;ferrone;Brazil;;Tahuapunto, Rio Uapes, L. Bank;-69,186;0,629;M;;;;;15,91;4,25;5,54;60;49,33;ferrone;braneg
+AMNH435144;ferrugineifrons;braneg;ferr;ferrone;Brazil;;Tahuapunto, Rio Uapes, L. Bank;-69,186;0,629;M;;;;;17,35;3,9;5,93;56,83;46,24;ferrone;braneg
+AMNH435146;ferrugineifrons;braneg;ferr;ferrone;Brazil;;Tahuapunto, Rio Uapes, L. Bank;-69,186;0,629;F;;;;;15,25;4,05;;55,44;48,78;ferrone;braneg
+AMNH435145;ferrugineifrons;braneg;ferr;ferrone;Brazil;;Tahuapunto, Rio Uapes, L. Bank;-69,186;0,629;F;;;;;16,34;4,1;5,38;55,87;45,39;ferrone;braneg
+AMNH435143;ferrugineifrons;braneg;ferr;ferrone;Brazil;;Tahuapunto, Rio Uapes, L. Bank;-69,186;0,629;M;;;;;15,62;4,12;6,03;58,15;44,98;ferrone;braneg
+LSUMZ41716;ochraceiceps;amc;ferr;amc;Mexico;Veracruz;Tecolapa 34 mi SE Alvarado;-95,338;18,545;M;;;;;14,39;4,25;6,35;57,78;45,3;amc;amc
+ANSP119615;viridior;bol;ferr;ferrtwo;Bolivia;;Teoponte;-67,834;-15,476;F;;;;;14,97;3,87;6,28;61,23;49,01;ferrtwo;bol
+LSUMZ21304;ochraceiceps;amc;ferr;amc;Belize;;Toledo Dist, 2 mi NW San Pedro;-88,883;16,117;F;;;;11,5;14,79;4,11;6,36;55,99;47,39;amc;amc
+FMNH324033;viridior;bol;ferr;ferrtwo;Peru;Cuzco;Tono;-71,566;-12,95;M;;100;;11,5;14,81;3,92;5,75;51,97;45,84;ferrtwo;bol
+CM132558;pallidipectus;amc;ferr;amc;Honduras;Colon;Trujillo;-85,951;15,876;F;;;;;15,96;4,21;6,63;56,91;45,96;amc;amc
+CM133439;pallidipectus;amc;ferr;amc;Honduras;Colon;Trujillo (50 Km SW Los Planes);-85,951;15,876;M;;;;;16,63;4,19;6,31;54,93;45,17;amc;amc
+CM133479;pallidipectus;amc;ferr;amc;Honduras;Colon;Trujillo (50 Km SW Los Planes);-85,951;15,876;M;;;;;14,71;3,84;6,3;61,64;46,77;amc;amc
+AMNH102606;pallidipectus;amc;ferr;amc;Nicaragua;;Tuma, Matagalpa;-85,951;15,876;M;;;;;15,99;3,87;5,78;54,86;51,41;amc;amc
+AMNH126073;luteifrons;guy;lutei;lutei;British Guyana;;Tumatumari, Potaro River;-59,034;5,362;F;;;;;16,66;4,07;6,3;60,98;53,31;lutei;guy
+AMNH126072;luteifrons;guy;lutei;lutei;British Guyana;;Tumatumari, Potaro River;-59,034;5,362;F;;;;;15,81;3,87;6,48;55,4;45,04;lutei;guy
+CM13564;pallidipectus;amc;ferr;amc;Costa Rica;Cartago;Turrialba;-83,685;9,939;M;;;;;16,2;4,29;6,1;54,82;44,26;amc;amc
+FMNH119778;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Tutla;-95,413;17,162;M;;;;;16,08;4,33;7,1;53,47;44,03;amc;amc
+FMNH119777;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Tutla;-95,413;17,162;F;;;;;16,48;4,47;6,92;53,26;46,72;amc;amc
+FMNH199976;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Tutla;-95,413;17,162;M;;;;;16,26;4,25;6,47;59,87;46,49;amc;amc
+FMNH199975;ochraceiceps;amc;ferr;amc;Mexico;Oaxaca;Tutla;-95,413;17,162;F;;;;;15,08;4,47;6,05;55,55;46,33;amc;amc
+AMNH824553;ferrugineifrons;braneg;ferr;ferrone;Brazil;Roraima;Uaica, Rio Uraricoera;-63,11;3,325;F;;;;9,5;16,15;4,25;6,16;56,31;49,6;ferrone;braneg
+ANSP160117;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Umbria;-76,588;0,861;M;;;;;;;;;;;japnap
+ANSP160118;ferrugineifrons;japnap;ferr;;Colombia;Putumayo;Umbria;-76,588;0,861;;;;;;17,12;4,12;6;60,33;43,98;;japnap
+CM32216;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Upper Caura River ;;;M;;;;;15,45;;6,7;61,01;50,02;ferrone;braneg
+CM32449;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Upper Caura River ;;;;;;;;15,35;4,71;6,41;55,18;47,37;ferrone;braneg
+CM32226;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Upper Caura River ;;;M;;;;;16,87;4,24;6;56,13;49,01;ferrone;braneg
+CM32255;ferrugineifrons;braneg;ferr;ferrone;Venezuela;Bolivar;Upper Caura River ;;;M;;;;;15,51;4,26;5,69;56,11;50,03;ferrone;braneg
+AMNH407247;ferrugineifrons;purmad;ferr;ferrtwo;Peru;Loreto;"Urubamba (""Boca R. Urubamba"")";-73,74;-10,708;M;;;;;16,06;4,44;6,38;57,91;50,07;ferrtwo;purmad
+AMNH95881;ochraceiceps;amc;ferr;amc;Mexico;Motzorongo;Vera Cruz;-96,729;18,629;M;;;;;14,97;4,13;6,72;56,48;47,73;amc;amc
+LSUMZ85331;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Amazonas;Vicinity of Pagat da Rio Cenepa;-78,173;-4,442;F;;;;;15,77;4,23;5,7;46,43;43,56;ferrtwo;napjav
+FMNH2999411;ferrugineifrons;napjav;ferr;ferrtwo;Peru;Amazonas;Villa Gonzalo (Rio Santiago);-77,769;-3,944;F;;;;;14,84;3,66;6,65;56,84;46,89;ferrtwo;napjav
+AMNH391824;pacificus;amc;ferr;amc;Costa Rica;;Volcan de Osa(o)?;;;F;;;;;15,48;4,4;5,48;57,01;47,52;amc;amc
+AMNH182900;nelsoni;amc;ferr;amc;Panama;;Wilcox Camp, Veraguas, San Lorenzo River;;;F;;;;;15,02;;4,33;55,36;48,44;amc;amc
+AMNH126074;luteifrons;guy;lutei;lutei;British Guyana;;Wismar, Demarara River;-58,348;6,002;M;;;;;;;;;;lutei;guy
+AMNH391825;pacificus;amc;ferr;amc;Costa Rica;;Yalca(ni?) (Volcan?) (de oso);;;F;;;;;;;;;;amc;amc
+AMNH505366;ochraceiceps;amc;ferr;amc;Guatemala;;;;;;;;;;;;;;;amc;amc
+AMNH40124;ochraceiceps;amc;ferr;amc;Guatemala;;;;;;;;;;;;;;;amc;amc
+AMNH40122;ochraceiceps;amc;ferr;amc;Guatemala;;;;;;;;;;;;;;;amc;amc
+AMNH505365;ochraceiceps;amc;ferr;amc;Guatemala;Verapaz;;;;;;;;;;;;;;amc;amc
+AMNH505368;ochraceiceps;amc;ferr;amc;Guatemala?;;;;;;;;;;;;;;;amc;amc
+AMNH505308;luteifrons;guy;lutei;lutei;Surinam;;;;;M;;;;;;;;;;lutei;guy
+USNM486489;nelsoni?;amc;ferr;amc;Panama;Darien;Tacarcuna Village;-77,28;8,1;F;;;;;16,03;;6,68;55;44,67;amc;amc
+USNM427222;bulunensis;cho;ferr;;Colombia;Antioquia;Nicocli, Gulf of Uruba;-76,752;8,433;F;;;;;13,47;;5,71;56;41,55;;cho
+USNM403346;bulunensis;cho;ferr;;Colombia;Antioquia;Hacienda Belen, 8 mi W of Segovia;-74,774;7,087;F;;;;;16,07;4,56;6,27;57;43,51;;cho
+USNM238642;nelsoni?;amc;ferr;amc;Panama;;Cana;-77,7;7,75;F;;;;;15,33;4,47;6,69;57;41,87;amc;amc
+USNM238031;nelsoni?;amc;ferr;amc;Panama;;Mount Pirri, Near Head of Rio Limon;-77,717;7,817;F;;;;;15,83;4,92;6,08;55;46,96;amc;amc
+USNM238030;nelsoni?;amc;ferr;amc;Panama;;Mount Pirri, Near Head of Rio Limon;-77,717;7,817;M;;;;;16,16;4,61;5,62;55;46,62;amc;amc
+USNM238641;nelsoni?;amc;ferr;amc;Panama;;Cana;-77,7;7,75;M;;;;;;;;63;44,64;amc;amc
+USNM386461;nelsoni?;;;;Panama;Darien;Jaque, Quebrada Fundeadero;-78,065;7,554;M;;;;;15,09;4,66;5,69;54;42,42;;
+USNM474665;nelsoni?;;;;Panama;Darien;Cerro Pirre, Head of Rio Seteganti;-77,672;7,908;M;;;;;17,31;;6,49;57;41,63;;
+USNM427221;bulunensis;;;;Colombia;Antioquia;Nicocli, Gulf of Uruba;-76,752;8,433;M;;;;;16,56;5,02;6,17;61;43,94;;
+USNM229476;nelsoni;amc;ferr;amc;Panama;Colon;Lion Hill;-79,893;9,226;M;;;;;17,6;4,98;6,52;53;39,1;amc;amc
+USNM229679;nelsoni;amc;ferr;amc;Panama;Colon;Lion Hill;-79,893;9,226;F;;;;;15,72;5,04;5,58;54;41,3;amc;amc
+USNM423894;nelsoni;amc;ferr;amc;Panama;Panama;Cerro Chucanti, Base of Cerro Maestro, Serrania De Maje;-78,474;8,807;F;;;;;;4,65;5,81;55;36,25;amc;amc
+USNM423895;nelsoni;amc;ferr;amc;Panama;Panama;Cerro Chucanti, Quebrada Cauchero, SW Base Serrania De Maje;-78,474;8,807;M;;;;;16,06;4,68;6,01;56;39,61;amc;amc
+USNM423893;nelsoni;amc;ferr;amc;Panama;Panama;Cerro Chucanti, Above Quebrada Chucanti, SW Base Serrania De Maje;-78,474;8,807;M;;;;;16,14;5;5,69;55,5;38,29;amc;amc
+USNM409935;nelsoni;amc;ferr;amc;Panama;Panama;Chepo, Camaron, Rio Mamoni;-79,087;9,147;M;;;;;16,28;4,7;6,01;56;39,01;amc;amc
+USNM482972;nelsoni;amc;ferr;amc;Panama;;Armila, San Blas, Quebrada Venado;-77,464;8,66;M;;;;;15,77;5,14;7,09;52,5;48,25;amc;amc
+USNM534162;nelsoni;amc;ferr;amc;Panama;;Between Summit Gardens and Gamboa;-79,669;9,089;M;;;;;16,26;5,02;7,72;58;;amc;amc
+USNM61989;pacificus;amc;ferr;amc;Panama;Chiriqui;Chiriqui;;;M;;;;;16,8;;6,14;58;44,08;amc;amc
+USNM486037;pacificus;amc;ferr;amc;Panama;Chiriqui;El Volcan, Palo Santo;-82,682;8,829;M;;;;;16,58;;5,96;62;44,61;amc;amc
+USNM486036;pacificus;amc;ferr;amc;Panama;Chiriqui;El Volcan, Palo Santo;-82,682;8,829;F;;;;;16,08;4,65;5,92;57;42,95;amc;amc
+USNM482971;nelsoni;amc;ferr;amc;Panama;;Armila, San Blas, Quebrada Venado;-77,464;8,66;F;;;;;17,58;4,49;6,16;54;42,74;amc;amc
