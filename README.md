@@ -7,7 +7,7 @@
 
 In this project I try to explore the possible variations in measurements of birds such as measurements of bill, wing and tail to see if there was any difference between closest related species.
 
-[plot](morphometric_plot.png "Example of graphs produced with tools of this project")
+<p align="center"> <img src=morphometric_plot.jpg width="500" alt="bird_pic" class="center"></p>
 
 ## Goals
 
@@ -24,7 +24,7 @@ I do that using R language and the following packages:
 * *mcluster*
 * *dplyr*
 * *ggplot2*
-* *other* 
+* *other graphic packages * 
 
 ## Who is this for?
 
